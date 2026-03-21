@@ -11,9 +11,9 @@ SQLを書く機会が多く、データ取得やロジックの組み立てを�
 ## Tech Stack
 - Go / GORM / Cobra
 - Java / Spring / Java EE
-- Python3
+- Python
 - VB.NET
-- JS / TS / Angular / jQuery
+- JavaScript / TypeScript / Angular / jQuery
 - MySQL
 - Docker / WSL2
 
@@ -23,3 +23,5 @@ SQLを書く機会が多く、データ取得やロジックの組み立てを�
 
 ## Projects
 - https://github.com/tonbiattack/git-plus
+- https://github.com/tonbiattack/employee-management
+- https://github.com/tonbiattack/line-notify-web-site-update
