@@ -3,25 +3,38 @@
 Backend Engineer (Go)
 
 ## About
-バックエンドエンジニアとして、実務寄りの設計・実装・テストについて発信しています。
 
-Goを中心にしていますが、JavaやSpringなど他の技術も経験しています。
-SQLを書く機会が多く、データ取得やロジックの組み立てを重視しています。
+I'm a backend engineer sharing practical insights on design, implementation, and testing.
+
+Mainly working with Go, but also have experience with Java, Spring, and other technologies.
+I frequently write SQL and focus on data retrieval and logic composition.
 
 ## Tech Stack
+
+**Main**
 - Go / GORM / Cobra
+
+**Other Languages & Frameworks**
 - Java / Spring / Java EE
-- Python
+- Python / FastAPI
 - VB.NET
-- JavaScript / TypeScript / Angular / jQuery
+- JavaScript / TypeScript / Angular / React / jQuery
+
+**Database & Infrastructure**
 - MySQL
 - Docker / WSL2
 
 ## Writing
+
 - Zenn: https://zenn.dev/tonbi_attack
 - Qiita: https://qiita.com/tonbi_attack
 
 ## Projects
-- https://github.com/tonbiattack/git-plus
-- https://github.com/tonbiattack/employee-management
-- https://github.com/tonbiattack/line-notify-web-site-update
+
+- [git-plus](https://github.com/tonbiattack/git-plus) — Git wrapper CLI built with Go
+- [employee-management](https://github.com/tonbiattack/employee-management) — Employee management system
+- [line-notify-web-site-update](https://github.com/tonbiattack/line-notify-web-site-update) — LINE notification bot for website updates
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonbiattack&show_icons=true&theme=default)
