@@ -44,6 +44,10 @@ I focus on data retrieval and logic composition in my implementations.
 
 ### 🕐 最新記事（Zenn）
 
+[![Zenn Likes](https://badgen.org/img/zenn/tonbi_attack/likes?style=plastic)](https://zenn.dev/tonbi_attack)
+[![Zenn Followers](https://badgen.org/img/zenn/tonbi_attack/followers?style=plastic)](https://zenn.dev/tonbi_attack)
+[![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
+
 <!-- ZENN-POST-LIST:START -->
 - [CHECK制約はどこまで書くべきか](https://zenn.dev/tonbi_attack/articles/74b57382f39aef)
 - [登録経路をテーブル構造に埋め込んだ設計をリファクタリングする](https://zenn.dev/tonbi_attack/articles/330231b9942562)
@@ -54,6 +58,10 @@ I focus on data retrieval and logic composition in my implementations.
 
 ### 🕐 最新記事（Qiita）
 
+[![Qiita Contributions](https://badgen.org/img/qiita/tonbi_attack/contributions?style=plastic)](https://qiita.com/tonbi_attack)
+[![Qiita Followers](https://badgen.org/img/qiita/tonbi_attack/followers?style=plastic)](https://qiita.com/tonbi_attack)
+[![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
+
 <!-- QIITA-POST-LIST:START -->
 - [Java経験者がGoを触って最初に戸惑ったこと](https://qiita.com/tonbi_attack/items/7262b38fd92fb1f62163)
 - [GoでISO8601とRFC3339のどちらを使うべきか](https://qiita.com/tonbi_attack/items/75af188dae1d96e3b294)
@@ -61,8 +69,6 @@ I focus on data retrieval and logic composition in my implementations.
 - [Swagger先行開発でAPI設計が硬直化した話](https://qiita.com/tonbi_attack/items/c6dc49710985595d535a)
 <!-- QIITA-POST-LIST:END -->
 
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/tonbi_attack)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/tonbi_attack)
 
 ## Projects
 
