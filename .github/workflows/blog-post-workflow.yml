@@ -15,9 +15,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in blog posts
+      - name: Pull in Zenn posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zenn.dev/tonbi_attack/feed,https://qiita.com/tonbi_attack/feed"
-          max_post_count: "7"
+          feed_list: "https://zenn.dev/tonbi_attack/feed"
+          max_post_count: "5"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "ZENN-POST-LIST"
+      - name: Pull in Qiita posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://qiita.com/tonbi_attack/feed"
+          max_post_count: "5"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "QIITA-POST-LIST"
