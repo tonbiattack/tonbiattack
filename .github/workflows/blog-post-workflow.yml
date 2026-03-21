@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
@@ -17,3 +20,4 @@ jobs:
         with:
           feed_list: "https://zenn.dev/tonbi_attack/feed,https://qiita.com/tonbi_attack/feed"
           max_post_count: "7"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
