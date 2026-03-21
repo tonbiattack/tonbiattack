@@ -4,30 +4,28 @@
 
 ## About
 
-設計・実装・テストなど、実務に役立つ知識を発信しているバックエンドエンジニアです。
+設計・実装・テストなど、実務に役立つ知識を発信しています。
 
 Goをメインに、Java・Spring・SQLなど幅広い技術を経験しています。
 データ取得やロジックの組み立てを重視した実装を得意としています。
 
----
-
 I'm a backend engineer sharing practical insights on design, implementation, and testing.
 
-Mainly working with Go, but also have experience with Java, Spring, and SQL.
+Mainly working with Go, with experience in Java, Spring, and SQL.
 I focus on data retrieval and logic composition in my implementations.
 
 ## Tech Stack
 
-**メイン**
+メイン
 - Go / GORM / Cobra
 
-**その他言語・フレームワーク**
+その他言語・フレームワーク
 - Java / Spring / Java EE
 - Python / FastAPI
 - VB.NET
 - JavaScript / TypeScript / Angular / React / jQuery
 
-**データベース・インフラ**
+データベース・インフラ
 - MySQL
 - Docker / WSL2
 
