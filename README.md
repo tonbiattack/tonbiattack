@@ -1,4 +1,4 @@
-# Hi, I'm Daichi Toyooka
+# Hi 👋, I'm Daichi Toyooka
 
 バックエンドエンジニア（Go）
 
