@@ -34,6 +34,13 @@ I focus on data retrieval and logic composition in my implementations.
 設計・アーキテクチャ・SQLなど、実務で役立つテーマを中心に記事を書いています。
 
 <!-- BLOG-POST-LIST:START -->
+- [Java経験者がGoを触って最初に戸惑ったこと](https://qiita.com/tonbi_attack/items/7262b38fd92fb1f62163)
+- [CHECK制約はどこまで書くべきか](https://zenn.dev/tonbi_attack/articles/74b57382f39aef)
+- [GoでISO8601とRFC3339のどちらを使うべきか](https://qiita.com/tonbi_attack/items/75af188dae1d96e3b294)
+- [CHECK制約はどこまで書くべきか](https://qiita.com/tonbi_attack/items/04e746764f30ad56bd84)
+- [Swagger先行開発でAPI設計が硬直化した話](https://qiita.com/tonbi_attack/items/c6dc49710985595d535a)
+- [登録経路をテーブル構造に埋め込んだ設計をリファクタリングする](https://zenn.dev/tonbi_attack/articles/330231b9942562)
+- [クリーンアーキテクチャのGoで複数テーブルを更新するトランザクションの貼り方](https://zenn.dev/tonbi_attack/articles/fcca8d12fac711)
 <!-- BLOG-POST-LIST:END -->
 
 - [UPDATE設計を破綻させないDB状態遷移図の作り方](https://zenn.dev/tonbi_attack/articles/829699365823c2)
