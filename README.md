@@ -40,6 +40,7 @@ I focus on data retrieval and logic composition in my implementations.
 - [なぜ現場ではCTEで書かれたクエリが少ないのか](https://zenn.dev/tonbi_attack/articles/560b025a188620)
 - [なぜ壊れた権限設計が生まれるのか（RBAC設計の実務）](https://zenn.dev/tonbi_attack/articles/bfbaebb736c654)
 - [ER図はなぜすぐ古くなるのか（実務で破綻しない運用）](https://zenn.dev/tonbi_attack/articles/2b914a739f347e)
+- [ウォーターフォールを成功させるには、結局先の工程に取りかからないと厳しいと思った話）](https://zenn.dev/tonbi_attack/articles/c07206607bb3b1)
 - [プログラミング言語よりも先にデバッガーの使い方を覚えよう](https://qiita.com/tonbi_attack/items/4452ded1e7be65806833)
 
 ### 🕐 最新記事（Zenn）
