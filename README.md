@@ -45,6 +45,11 @@ I focus on data retrieval and logic composition in my implementations.
 ### 🕐 最新記事（Zenn）
 
 <!-- ZENN-POST-LIST:START -->
+- [CHECK制約はどこまで書くべきか](https://zenn.dev/tonbi_attack/articles/74b57382f39aef)
+- [登録経路をテーブル構造に埋め込んだ設計をリファクタリングする](https://zenn.dev/tonbi_attack/articles/330231b9942562)
+- [クリーンアーキテクチャのGoで複数テーブルを更新するトランザクションの貼り方](https://zenn.dev/tonbi_attack/articles/fcca8d12fac711)
+- [実務SQLは集合思考で設計すると書きやすい](https://zenn.dev/tonbi_attack/articles/d9583dbe6b1cd0)
+- [MySQLでAUTO_INCREMENTを変更しても反映されないように見える理由](https://zenn.dev/tonbi_attack/articles/73bc3c5806774d)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
