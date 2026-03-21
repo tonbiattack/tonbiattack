@@ -40,7 +40,8 @@ I focus on data retrieval and logic composition in my implementations.
 - [ER図はなぜすぐ古くなるのか（実務で破綻しない運用）](https://zenn.dev/tonbi_attack/articles/2b914a739f347e)
 - [プログラミング言語よりも先にデバッガーの使い方を覚えよう](https://qiita.com/tonbi_attack/items/4452ded1e7be65806833)
 
-他の記事はこちら → [Zenn](https://zenn.dev/tonbi_attack) / [Qiita](https://qiita.com/tonbi_attack)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/tonbi_attack)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/tonbi_attack)
 
 ## Projects
 
