@@ -31,6 +31,9 @@ Goをメインに、Java・Spring・SQLなど幅広い技術を経験してい�
 - [UPDATE設計を破綻させないDB状態遷移図の作り方](https://zenn.dev/tonbi_attack/articles/829699365823c2)
 - [クリーンアーキテクチャでモックはどこまで書くべきか](https://zenn.dev/tonbi_attack/articles/daacd9de619954)
 - [なぜ現場ではCTEで書かれたクエリが少ないのか](https://zenn.dev/tonbi_attack/articles/560b025a188620)
+- [なぜ壊れた権限設計が生まれるのか（RBAC設計の実務）](https://zenn.dev/tonbi_attack/articles/bfbaebb736c654)
+- [ER図はなぜすぐ古くなるのか（実務で破綻しない運用）](https://zenn.dev/tonbi_attack/articles/2b914a739f347e)
+- [プログラミング言語よりも先にデバッガーの使い方を覚えよう](https://qiita.com/tonbi_attack/items/4452ded1e7be65806833)
 
 他の記事はこちら → [Zenn](https://zenn.dev/tonbi_attack) / [Qiita](https://qiita.com/tonbi_attack)
 
