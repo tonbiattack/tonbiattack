@@ -29,6 +29,12 @@ I focus on data retrieval and logic composition in my implementations.
 - MySQL
 - Docker / WSL2
 
+AWS 資格
+
+[![AWS Developer Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9623ad17-4149-40a1-9d16-f11a3ef33f13/public_url)
+[![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/59c2d9ed-01d7-4db6-9c9a-34b335bdd725/public_url)
+[![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/6bf9a0b0-500d-4ee7-9589-a5bba02494bf/public_url)
+
 ## 技術記事
 
 設計・アーキテクチャ・SQLなど、実務で役立つテーマを中心に記事を書いています。
