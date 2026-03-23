@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [Java&lpar;Spring&rpar;のトランザクションとGo&lpar;Gin&rpar;のトランザクションの比較](https://qiita.com/tonbi_attack/items/cae0ac8bf54d727262f6)
-- [GinでCookieの取得・検証はhandlerとmiddlewareのどちらで行うべきか](https://qiita.com/tonbi_attack/items/beee025c4f14ecc0f9de)
-- [Java経験者がGoを触って最初に戸惑ったこと](https://qiita.com/tonbi_attack/items/7262b38fd92fb1f62163)
-- [GoでISO8601とRFC3339のどちらを使うべきか](https://qiita.com/tonbi_attack/items/75af188dae1d96e3b294)
+- [Javaの検査例外・非検査例外はなぜGoなどの他の言語にはないのか](https://qiita.com/tonbi_attack/items/c00a90d2cc5d589338a0)
+- [RDBで木構造を扱うなら隣接リストから始める](https://qiita.com/tonbi_attack/items/7a31498300b5141b3066)
+- [クリーンアーキテクチャはどこから読むべきか（Goでの実務的な読み順）](https://qiita.com/tonbi_attack/items/9edc64b6bfbad5690c18)
+- [AWSの鍵管理ベストエフォート（よくある運用例つき）](https://qiita.com/tonbi_attack/items/ad2662016bee3625d5a1)
 <!-- QIITA-POST-LIST:END -->
 
 
