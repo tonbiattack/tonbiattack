@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [効率の良いテストデータ作成はSQLで管理するのが実務では強い](https://qiita.com/tonbi_attack/items/0621f8df3cd2e7dfb793)
+- [GoのCobra製CLIを効率的にデバッグする開発方法](https://qiita.com/tonbi_attack/items/8634312d086eab04ebd8)
+- [OpenAPI と Prism でモックサーバーを立てる](https://qiita.com/tonbi_attack/items/06c95e6c306ab2fb3dfe)
 - [ビジネスアプリで「一部だけ可変カラム」を安全に設計する方法](https://qiita.com/tonbi_attack/items/41345a38a477b70e09a1)
-- [Goのクリーンアーキテクチャが読みにくくなる理由は技術駆動パッケージにある](https://qiita.com/tonbi_attack/items/273d66777219ee6e24a0)
-- [Javaの検査例外・非検査例外はなぜGoなどの他の言語にはないのか](https://qiita.com/tonbi_attack/items/c00a90d2cc5d589338a0)
-- [RDBで木構造を扱うなら隣接リストから始める](https://qiita.com/tonbi_attack/items/7a31498300b5141b3066)
 <!-- QIITA-POST-LIST:END -->
 
 
