@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [gitignoreで個人ドキュメントをプロジェクトの近くに置く運用はAI時代に相性が良い](https://qiita.com/tonbi_attack/items/0dfc2e02d4669030605c)
 - [効率の良いテストデータ作成はSQLで管理するのが実務では強い](https://qiita.com/tonbi_attack/items/0621f8df3cd2e7dfb793)
 - [GoのCobra製CLIを効率的にデバッグする開発方法](https://qiita.com/tonbi_attack/items/8634312d086eab04ebd8)
 - [OpenAPI と Prism でモックサーバーを立てる](https://qiita.com/tonbi_attack/items/06c95e6c306ab2fb3dfe)
-- [ビジネスアプリで「一部だけ可変カラム」を安全に設計する方法](https://qiita.com/tonbi_attack/items/41345a38a477b70e09a1)
 <!-- QIITA-POST-LIST:END -->
 
 
