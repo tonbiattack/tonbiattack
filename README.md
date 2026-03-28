@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [なぜステータスが混在するテーブル設計が生まれるのか](https://qiita.com/tonbi_attack/items/9a17de813ec0c068dbf1)
+- [親子テーブルを1対1から1対多に組み替えたDBリファクタリングの手順](https://qiita.com/tonbi_attack/items/811eef6a945a08d5190b)
 - [gitignoreで個人ドキュメントをプロジェクトの近くに置く運用はAI時代に相性が良い](https://qiita.com/tonbi_attack/items/0dfc2e02d4669030605c)
 - [効率の良いテストデータ作成はSQLで管理するのが実務では強い](https://qiita.com/tonbi_attack/items/0621f8df3cd2e7dfb793)
-- [GoのCobra製CLIを効率的にデバッグする開発方法](https://qiita.com/tonbi_attack/items/8634312d086eab04ebd8)
-- [OpenAPI と Prism でモックサーバーを立てる](https://qiita.com/tonbi_attack/items/06c95e6c306ab2fb3dfe)
 <!-- QIITA-POST-LIST:END -->
 
 
