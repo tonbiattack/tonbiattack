@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [なぜステータスが混在するテーブル設計が生まれるのか](https://zenn.dev/tonbi_attack/articles/9cf02af8c2a4b5)
 - [Goのdeferは関数に切り出すと壊れる理由と対処法](https://zenn.dev/tonbi_attack/articles/ad2de872c034d0)
 - [GinでCookieの取得・検証はhandlerとmiddlewareのどちらで行うべきか](https://zenn.dev/tonbi_attack/articles/a47c1641513bc4)
 - [RDBで木構造を扱うなら隣接リストから始める](https://zenn.dev/tonbi_attack/articles/dee996a057b95d)
 - [Java経験者がGoを触って最初に戸惑ったこと](https://zenn.dev/tonbi_attack/articles/163384c3c5404f)
-- [JSONレスポンスのnull・省略・空文字を混在させてはいけない](https://zenn.dev/tonbi_attack/articles/bab85e0cb6da6d)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
