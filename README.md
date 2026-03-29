@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [なぜステータスが混在するテーブル設計が生まれるのか](https://qiita.com/tonbi_attack/items/9a17de813ec0c068dbf1)
-- [親子テーブルを1対1から1対多に組み替えたDBリファクタリングの手順](https://qiita.com/tonbi_attack/items/811eef6a945a08d5190b)
-- [gitignoreで個人ドキュメントをプロジェクトの近くに置く運用はAI時代に相性が良い](https://qiita.com/tonbi_attack/items/0dfc2e02d4669030605c)
-- [効率の良いテストデータ作成はSQLで管理するのが実務では強い](https://qiita.com/tonbi_attack/items/0621f8df3cd2e7dfb793)
+- [MySQLのスキーマ管理にmysqldefを使う](https://qiita.com/tonbi_attack/items/20d0aaa14c5f8d28d328)
+- [GoでDBのステータスを型にして、状態遷移を一箇所に集める](https://qiita.com/tonbi_attack/items/1745885c22ce094a9f36)
+- [変化がなくてもINSERTし続けるログテーブルはなぜ問題なのか](https://qiita.com/tonbi_attack/items/3e8653f211fe5d6d1e91)
+- [状態遷移の制御はDBとアプリケーションで役割を分ける](https://qiita.com/tonbi_attack/items/60f79dfa0c660c1b91c0)
 <!-- QIITA-POST-LIST:END -->
 
 
