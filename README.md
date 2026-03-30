@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [MySQLのスキーマ管理にmysqldefを使う](https://qiita.com/tonbi_attack/items/20d0aaa14c5f8d28d328)
-- [GoでDBのステータスを型にして、状態遷移を一箇所に集める](https://qiita.com/tonbi_attack/items/1745885c22ce094a9f36)
-- [変化がなくてもINSERTし続けるログテーブルはなぜ問題なのか](https://qiita.com/tonbi_attack/items/3e8653f211fe5d6d1e91)
-- [状態遷移の制御はDBとアプリケーションで役割を分ける](https://qiita.com/tonbi_attack/items/60f79dfa0c660c1b91c0)
+- [UPSERTはいつ使ってよいか、乱用が設計を壊すパターン](https://qiita.com/tonbi_attack/items/b2361f49d8c7c4c485ad)
+- [RDBの重複はどこで防ぐべきか、制約・アプリ・クエリの役割分担](https://qiita.com/tonbi_attack/items/e37a02cb6122c0245250)
+- [NULLを「とりあえず許容」にしてはいけない理由とDB設計の判断軸](https://qiita.com/tonbi_attack/items/c10af9e078c33d77ca4d)
+- [テーブル数が少ないのにアプリケーションが複雑な設計で起きていること](https://qiita.com/tonbi_attack/items/c77b72dfebf50d85577f)
 <!-- QIITA-POST-LIST:END -->
 
 
