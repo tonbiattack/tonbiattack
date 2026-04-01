@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [GoテストのDB汚染問題と現実解（txdbを採用しなかった理由）](https://zenn.dev/tonbi_attack/articles/6027270568e9e1)
 - [GoでDBのステータスを型にして、状態遷移を一箇所に集める](https://zenn.dev/tonbi_attack/articles/9dfb70fb29a249)
 - [なぜステータスが混在するテーブル設計が生まれるのか](https://zenn.dev/tonbi_attack/articles/9cf02af8c2a4b5)
 - [Goのdeferは関数に切り出すと壊れる理由と対処法](https://zenn.dev/tonbi_attack/articles/ad2de872c034d0)
 - [GinでCookieの取得・検証はhandlerとmiddlewareのどちらで行うべきか](https://zenn.dev/tonbi_attack/articles/a47c1641513bc4)
-- [RDBで木構造を扱うなら隣接リストから始める](https://zenn.dev/tonbi_attack/articles/dee996a057b95d)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
