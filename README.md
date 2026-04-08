@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [CTEのデバッグは最終SELECTを差し替えて進める](https://qiita.com/tonbi_attack/items/3c92e299fe20aa7949d2)
+- [副問い合わせの読み方](https://qiita.com/tonbi_attack/items/43b55ae570365d316639)
 - [複雑な条件のバッチはテストケースの列挙から始める](https://qiita.com/tonbi_attack/items/4f5c76aeec6e001c1ade)
 - [Angular×Dockerで初回ビルドだけ失敗して保存すると通るときの切り分け](https://qiita.com/tonbi_attack/items/86536e3184c3012eb3c2)
-- [業務画面のグリッド列設定をテーブルで管理する設計パターン](https://qiita.com/tonbi_attack/items/673354e8b38757b975bd)
-- [RDBで木構造の深さを制限したいときの設計パターン](https://qiita.com/tonbi_attack/items/4ca80a42382f8f9987f6)
 <!-- QIITA-POST-LIST:END -->
 
 
