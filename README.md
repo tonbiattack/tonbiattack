@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [サービスをデプロイ単位ごとに分けることのメリットとコスト](https://qiita.com/tonbi_attack/items/faf806390ddfaec8bcd3)
+- [デプロイ単位を分けると共通ロジックが重複する、Goでの設計判断](https://qiita.com/tonbi_attack/items/741ba765dae22b3114fd)
+- [本番UATに頼る開発はなぜ危険なのか](https://qiita.com/tonbi_attack/items/496a1fd53145f8038987)
 - [CTEのデバッグは最終SELECTを差し替えて進める](https://qiita.com/tonbi_attack/items/3c92e299fe20aa7949d2)
-- [副問い合わせの読み方](https://qiita.com/tonbi_attack/items/43b55ae570365d316639)
-- [複雑な条件のバッチはテストケースの列挙から始める](https://qiita.com/tonbi_attack/items/4f5c76aeec6e001c1ade)
-- [Angular×Dockerで初回ビルドだけ失敗して保存すると通るときの切り分け](https://qiita.com/tonbi_attack/items/86536e3184c3012eb3c2)
 <!-- QIITA-POST-LIST:END -->
 
 
