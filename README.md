@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [Goのクリーンアーキテクチャが読みにくくなる理由は技術駆動パッケージにある](https://zenn.dev/tonbi_attack/articles/b805e12d44dd8a)
 - [テーブル数が少ないのにアプリケーションが複雑な設計で起きていること](https://zenn.dev/tonbi_attack/articles/21652e13ac0896)
 - [親子テーブルを1対1から1対多に組み替えたDBリファクタリングの手順](https://zenn.dev/tonbi_attack/articles/480795fef5fd27)
 - [状態遷移の制御はDBとアプリケーションで役割を分ける](https://zenn.dev/tonbi_attack/articles/f656cf40ab9a05)
 - [Javaの検査例外・非検査例外はなぜGoなどの他の言語にはないのか](https://zenn.dev/tonbi_attack/articles/545007aaa3f40b)
-- [Swagger先行開発でAPI設計が硬直化した話](https://zenn.dev/tonbi_attack/articles/3653fbd9359e34)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
