@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [GoのパッケージシステムをJavaと比較しながら理解する](https://qiita.com/tonbi_attack/items/50e73a7af4126b73e0a3)
-- [サービスをデプロイ単位ごとに分けることのメリットとコスト](https://qiita.com/tonbi_attack/items/faf806390ddfaec8bcd3)
-- [デプロイ単位を分けると共通ロジックが重複する、Goでの設計判断](https://qiita.com/tonbi_attack/items/741ba765dae22b3114fd)
-- [本番UATに頼る開発はなぜ危険なのか](https://qiita.com/tonbi_attack/items/496a1fd53145f8038987)
+- [MySQLのデッドロックを調査して原因を特定するまでの手順](https://qiita.com/tonbi_attack/items/7f2c2879900dcb7c0015)
+- [Hyper-V 上の Rocky Linux で Docker Compose を動かす](https://qiita.com/tonbi_attack/items/a12d8987a916e59cb86e)
+- [MySQL公式Dockerイメージでbind mountが権限エラーになる理由と対処](https://qiita.com/tonbi_attack/items/1bdd71fc4954af944d3b)
+- [Kubernetes を導入したのに恩恵を受けられていない現場の共通パターン](https://qiita.com/tonbi_attack/items/4e7752c429d10fc99f86)
 <!-- QIITA-POST-LIST:END -->
 
 
