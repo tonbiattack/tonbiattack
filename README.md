@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [クリーンアーキテクチャはどこから読むべきか（Goでの実務的な読み順）](https://zenn.dev/tonbi_attack/articles/7718405351b224)
 - [NULLを「とりあえず許容」にしてはいけない理由とDB設計の判断軸](https://zenn.dev/tonbi_attack/articles/7f2680785e407b)
 - [Java&lpar;Spring&rpar;のトランザクションとGo&lpar;Gin&rpar;のトランザクションの比較](https://zenn.dev/tonbi_attack/articles/2f592de62f74b2)
 - [ビジネスアプリで「一部だけ可変カラム」を安全に設計する方法](https://zenn.dev/tonbi_attack/articles/6027797e5a0f18)
 - [Goのクリーンアーキテクチャが読みにくくなる理由は技術駆動パッケージにある](https://zenn.dev/tonbi_attack/articles/b805e12d44dd8a)
-- [テーブル数が少ないのにアプリケーションが複雑な設計で起きていること](https://zenn.dev/tonbi_attack/articles/21652e13ac0896)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
