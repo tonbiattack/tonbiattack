@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [k8s CronJob + SNS + Lambdaで作る疎結合な監視バッチ構成](https://qiita.com/tonbi_attack/items/7113dfe2c21f6cd5e707)
-- [UNION ALL と CASE の使い分け](https://qiita.com/tonbi_attack/items/9d42c150f71d661d06f5)
-- [OOMを調べたらJVMではなく重複データの蓄積が原因だった](https://qiita.com/tonbi_attack/items/8e96f278e3ce63250dc1)
-- [MySQLのデッドロックを調査して原因を特定するまでの手順](https://qiita.com/tonbi_attack/items/7f2c2879900dcb7c0015)
+- [LocalStackとWireMockで段階的な結合テストをする](https://qiita.com/tonbi_attack/items/4869edcf2cf94f5b12b6)
+- [LocalStackでAWSサービスをローカルで動かす](https://qiita.com/tonbi_attack/items/eff1df845d0f0a28bc14)
+- [SNSトピックを実行経路で分けたら通知先が壊れた話](https://qiita.com/tonbi_attack/items/447c43fdb87b0198b25b)
+- [Amazon Linux 2023でcronが薄れたのに、なぜKubernetesではCronJobが普通なのか](https://qiita.com/tonbi_attack/items/37cc3a9101a265cb944d)
 <!-- QIITA-POST-LIST:END -->
 
 
