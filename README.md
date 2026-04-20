@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [バッチの通しテストを厚くするより、純粋関数のテストを増やす](https://qiita.com/tonbi_attack/items/aaf33943aaec17c37924)
+- [PdMがいない会社のプロダクトの行き着く先](https://qiita.com/tonbi_attack/items/36849a2369c0d1ab43ad)
 - [LocalStackとWireMockで段階的な結合テストをする](https://qiita.com/tonbi_attack/items/4869edcf2cf94f5b12b6)
 - [LocalStackでAWSサービスをローカルで動かす](https://qiita.com/tonbi_attack/items/eff1df845d0f0a28bc14)
-- [SNSトピックを実行経路で分けたら通知先が壊れた話](https://qiita.com/tonbi_attack/items/447c43fdb87b0198b25b)
-- [Amazon Linux 2023でcronが薄れたのに、なぜKubernetesではCronJobが普通なのか](https://qiita.com/tonbi_attack/items/37cc3a9101a265cb944d)
 <!-- QIITA-POST-LIST:END -->
 
 
