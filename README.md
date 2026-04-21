@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [OpenAPI と Prism でモックサーバーを立てる](https://zenn.dev/tonbi_attack/articles/fbd19e82b34eef)
 - [AWSの鍵管理ベストエフォート（よくある運用例つき）](https://zenn.dev/tonbi_attack/articles/4c7493b40eac09)
 - [GoでISO8601とRFC3339のどちらを使うべきか](https://zenn.dev/tonbi_attack/articles/5819543ef7f06d)
 - [クリーンアーキテクチャはどこから読むべきか（Goでの実務的な読み順）](https://zenn.dev/tonbi_attack/articles/7718405351b224)
 - [NULLを「とりあえず許容」にしてはいけない理由とDB設計の判断軸](https://zenn.dev/tonbi_attack/articles/7f2680785e407b)
-- [Java&lpar;Spring&rpar;のトランザクションとGo&lpar;Gin&rpar;のトランザクションの比較](https://zenn.dev/tonbi_attack/articles/2f592de62f74b2)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
