@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [動いているコードにあとからテストを足す理由](https://qiita.com/tonbi_attack/items/336decf973b42f301aea)
+- [ソフトウェア品質は「確実な領域」を少しずつ広げることで上がる](https://qiita.com/tonbi_attack/items/df52e45ea36e61bf816a)
 - [バッチの通しテストを厚くするより、純粋関数のテストを増やす](https://qiita.com/tonbi_attack/items/aaf33943aaec17c37924)
 - [PdMがいない会社のプロダクトの行き着く先](https://qiita.com/tonbi_attack/items/36849a2369c0d1ab43ad)
-- [LocalStackとWireMockで段階的な結合テストをする](https://qiita.com/tonbi_attack/items/4869edcf2cf94f5b12b6)
-- [LocalStackでAWSサービスをローカルで動かす](https://qiita.com/tonbi_attack/items/eff1df845d0f0a28bc14)
 <!-- QIITA-POST-LIST:END -->
 
 
