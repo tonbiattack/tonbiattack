@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [UNION ALL と CASE の使い分け](https://zenn.dev/tonbi_attack/articles/377cb3c2d20ca7)
 - [業務画面のグリッド列設定をテーブルで管理する設計パターン](https://zenn.dev/tonbi_attack/articles/262912f345154c)
 - [PdMがいない会社のプロダクトの行き着く先](https://zenn.dev/tonbi_attack/articles/4a077480fa9314)
 - [CTEのデバッグは最終SELECTを差し替えて進める](https://zenn.dev/tonbi_attack/articles/4e836bf3a67b7c)
 - [MySQLのスキーマ管理にmysqldefを使う](https://zenn.dev/tonbi_attack/articles/873ab16aceb6af)
-- [RDBの重複はどこで防ぐべきか、制約・アプリ・クエリの役割分担](https://zenn.dev/tonbi_attack/articles/e5bbc09755a83c)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
