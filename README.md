@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
-- [RDBで木構造を扱うなら隣接リストから始める](https://zenn.dev/tonbi_attack/articles/dee996a057b95d)
-- [Java経験者がGoを触って最初に戸惑ったこと](https://zenn.dev/tonbi_attack/articles/163384c3c5404f)
-- [JSONレスポンスのnull・省略・空文字を混在させてはいけない](https://zenn.dev/tonbi_attack/articles/bab85e0cb6da6d)
-- [CHECK制約はどこまで書くべきか](https://zenn.dev/tonbi_attack/articles/74b57382f39aef)
-- [登録経路をテーブル構造に埋め込んだ設計をリファクタリングする](https://zenn.dev/tonbi_attack/articles/330231b9942562)
+- [副問い合わせの読み方](https://zenn.dev/tonbi_attack/articles/c53b7990d1867e)
+- [gitignoreで個人ドキュメントをプロジェクトの近くに置く運用はAI時代に相性が良い](https://zenn.dev/tonbi_attack/articles/7ccd720d9329d1)
+- [デプロイ単位を分けると共通ロジックが重複する、Goでの設計判断](https://zenn.dev/tonbi_attack/articles/47a78d29cf2bb7)
+- [WireMock を Docker で動かして外部 API をスタブする](https://zenn.dev/tonbi_attack/articles/5c7eaf5f570699)
+- [本番UATに頼る開発はなぜ危険なのか](https://zenn.dev/tonbi_attack/articles/296525dc29445f)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [ビジネスアプリで「一部だけ可変カラム」を安全に設計する方法](https://qiita.com/tonbi_attack/items/41345a38a477b70e09a1)
-- [Goのクリーンアーキテクチャが読みにくくなる理由は技術駆動パッケージにある](https://qiita.com/tonbi_attack/items/273d66777219ee6e24a0)
-- [Javaの検査例外・非検査例外はなぜGoなどの他の言語にはないのか](https://qiita.com/tonbi_attack/items/c00a90d2cc5d589338a0)
-- [RDBで木構造を扱うなら隣接リストから始める](https://qiita.com/tonbi_attack/items/7a31498300b5141b3066)
+- [動いているコードにあとからテストを足す理由](https://qiita.com/tonbi_attack/items/336decf973b42f301aea)
+- [ソフトウェア品質は「確実な領域」を少しずつ広げることで上がる](https://qiita.com/tonbi_attack/items/df52e45ea36e61bf816a)
+- [バッチの通しテストを厚くするより、純粋関数のテストを増やす](https://qiita.com/tonbi_attack/items/aaf33943aaec17c37924)
+- [PdMがいない会社のプロダクトの行き着く先](https://qiita.com/tonbi_attack/items/36849a2369c0d1ab43ad)
 <!-- QIITA-POST-LIST:END -->
 
 
