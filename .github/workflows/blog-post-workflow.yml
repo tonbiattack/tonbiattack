@@ -25,7 +25,7 @@ jobs:
       - name: Pull in Qiita posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://qiita.com/tonbi_attack/feed"
+          feed_list: "https://qiita.com/tonbi_attack/feed.atom"
           max_post_count: "5"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           comment_tag_name: "QIITA-POST-LIST"
