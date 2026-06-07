@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [Angular×Dockerで初回ビルドだけ失敗して保存すると通るときの切り分け](https://zenn.dev/tonbi_attack/articles/ddddac91b1e0dd)
+- [RDBで木構造の深さを制限したいときの設計パターン](https://zenn.dev/tonbi_attack/articles/56de5502efb772)
+- [UPSERTはいつ使ってよいか、乱用が設計を壊すパターン](https://zenn.dev/tonbi_attack/articles/d4dbc514c0f242)
+- [年月（yyyyMM）しか使わないカラムでもDATE型を使うべき理由](https://zenn.dev/tonbi_attack/articles/1b0390b02b5a70)
 - [副問い合わせの読み方](https://zenn.dev/tonbi_attack/articles/c53b7990d1867e)
-- [gitignoreで個人ドキュメントをプロジェクトの近くに置く運用はAI時代に相性が良い](https://zenn.dev/tonbi_attack/articles/7ccd720d9329d1)
-- [デプロイ単位を分けると共通ロジックが重複する、Goでの設計判断](https://zenn.dev/tonbi_attack/articles/47a78d29cf2bb7)
-- [WireMock を Docker で動かして外部 API をスタブする](https://zenn.dev/tonbi_attack/articles/5c7eaf5f570699)
-- [本番UATに頼る開発はなぜ危険なのか](https://zenn.dev/tonbi_attack/articles/296525dc29445f)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
