@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [暗号資産の数量で string・decimal・最小単位整数をどう使い分けるか](https://qiita.com/tonbi_attack/items/95d9da15326e3c5e4dd0)
+- [Cookie肥大化で400 Bad Request「Size of a request header field exceeds server limit」が発生したときの原因と対処](https://qiita.com/tonbi_attack/items/fe561ca193e30882b889)
 - [動いているコードにあとからテストを足す理由](https://qiita.com/tonbi_attack/items/336decf973b42f301aea)
 - [ソフトウェア品質は「確実な領域」を少しずつ広げることで上がる](https://qiita.com/tonbi_attack/items/df52e45ea36e61bf816a)
-- [バッチの通しテストを厚くするより、純粋関数のテストを増やす](https://qiita.com/tonbi_attack/items/aaf33943aaec17c37924)
-- [PdMがいない会社のプロダクトの行き着く先](https://qiita.com/tonbi_attack/items/36849a2369c0d1ab43ad)
 <!-- QIITA-POST-LIST:END -->
 
 
