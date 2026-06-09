@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Javaはなぜアノテーションで広がり、なぜ一部はRecord型のように言語へ吸収されるのか](https://qiita.com/tonbi_attack/items/72830d142f0c4ec3b135)
 - [Javaはなぜアノテーションが多いのか](https://qiita.com/tonbi_attack/items/8580d1f2c79681ecce77)
 - [暗号資産の数量で string・decimal・最小単位整数をどう使い分けるか](https://qiita.com/tonbi_attack/items/95d9da15326e3c5e4dd0)
 - [Cookie肥大化で400 Bad Request「Size of a request header field exceeds server limit」が発生したときの原因と対処](https://qiita.com/tonbi_attack/items/fe561ca193e30882b889)
-- [動いているコードにあとからテストを足す理由](https://qiita.com/tonbi_attack/items/336decf973b42f301aea)
 <!-- QIITA-POST-LIST:END -->
 
 
