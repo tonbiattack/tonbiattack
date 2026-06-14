@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [Hyper-V 上の Rocky Linux で Docker Compose を動かす](https://zenn.dev/tonbi_attack/articles/1863c44888ff5f)
+- [MySQL公式Dockerイメージでbind mountが権限エラーになる理由と対処](https://zenn.dev/tonbi_attack/articles/f4642f46311fbe)
+- [Kubernetes を導入したのに恩恵を受けられていない現場の共通パターン](https://zenn.dev/tonbi_attack/articles/8fcca1fa1ba629)
+- [GoのパッケージシステムをJavaと比較しながら理解する](https://zenn.dev/tonbi_attack/articles/54052885015412)
 - [Angular×Dockerで初回ビルドだけ失敗して保存すると通るときの切り分け](https://zenn.dev/tonbi_attack/articles/ddddac91b1e0dd)
-- [RDBで木構造の深さを制限したいときの設計パターン](https://zenn.dev/tonbi_attack/articles/56de5502efb772)
-- [UPSERTはいつ使ってよいか、乱用が設計を壊すパターン](https://zenn.dev/tonbi_attack/articles/d4dbc514c0f242)
-- [年月（yyyyMM）しか使わないカラムでもDATE型を使うべき理由](https://zenn.dev/tonbi_attack/articles/1b0390b02b5a70)
-- [副問い合わせの読み方](https://zenn.dev/tonbi_attack/articles/c53b7990d1867e)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
