@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [Javaはなぜアノテーションで広がり、なぜ一部はRecord型のように言語へ吸収されるのか](https://qiita.com/tonbi_attack/items/72830d142f0c4ec3b135)
-- [Javaはなぜアノテーションが多いのか](https://qiita.com/tonbi_attack/items/8580d1f2c79681ecce77)
-- [暗号資産の数量で string・decimal・最小単位整数をどう使い分けるか](https://qiita.com/tonbi_attack/items/95d9da15326e3c5e4dd0)
-- [Cookie肥大化で400 Bad Request「Size of a request header field exceeds server limit」が発生したときの原因と対処](https://qiita.com/tonbi_attack/items/fe561ca193e30882b889)
+- [VueのComposition APIとReact Hooksは何が似ていて何が違うのか](https://qiita.com/tonbi_attack/items/22d1cdeaf3c88cad2316)
+- [VueのテンプレートとReactのJSXは何が違うのか](https://qiita.com/tonbi_attack/items/0903df2870b2eab37f52)
+- [Vueの主要ディレクティブをReactで書くとどうなるか](https://qiita.com/tonbi_attack/items/0c32ca5fc78a56536862)
+- [GitHub Actionsでreviewdogのダウンロードが504になったときに環境変数を疑った話](https://qiita.com/tonbi_attack/items/af115c30c77c74bdbd55)
 <!-- QIITA-POST-LIST:END -->
 
 
