@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Vueのv-modelは便利だがReactのvalueとonChangeはなぜ分かりやすいのか](https://qiita.com/tonbi_attack/items/8d437e3befb87c9a55b2)
+- [Springの@Transactionalはなぜ便利なのに分かりにくいのか](https://qiita.com/tonbi_attack/items/eacc985f8e11efcf457f)
+- [SlickGridでoddクラスが競合して表示崩れした話](https://qiita.com/tonbi_attack/items/885329263a7633036366)
 - [VueのComposition APIとReact Hooksは何が似ていて何が違うのか](https://qiita.com/tonbi_attack/items/22d1cdeaf3c88cad2316)
-- [VueのテンプレートとReactのJSXは何が違うのか](https://qiita.com/tonbi_attack/items/0903df2870b2eab37f52)
-- [Vueの主要ディレクティブをReactで書くとどうなるか](https://qiita.com/tonbi_attack/items/0c32ca5fc78a56536862)
-- [GitHub Actionsでreviewdogのダウンロードが504になったときに環境変数を疑った話](https://qiita.com/tonbi_attack/items/af115c30c77c74bdbd55)
 <!-- QIITA-POST-LIST:END -->
 
 
