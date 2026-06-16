@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [Amazon Linux 2023でcronが薄れたのに、なぜKubernetesではCronJobが普通なのか](https://zenn.dev/tonbi_attack/articles/3fc89141cea347)
+- [k8s CronJob + SNS + Lambdaで作る疎結合な監視バッチ構成](https://zenn.dev/tonbi_attack/articles/d13a1c09768a55)
+- [OOMを調べたらJVMではなく重複データの蓄積が原因だった](https://zenn.dev/tonbi_attack/articles/142f69dce958db)
+- [MySQLのデッドロックを調査して原因を特定するまでの手順](https://zenn.dev/tonbi_attack/articles/4cc4cdd95f43e2)
 - [Hyper-V 上の Rocky Linux で Docker Compose を動かす](https://zenn.dev/tonbi_attack/articles/1863c44888ff5f)
-- [MySQL公式Dockerイメージでbind mountが権限エラーになる理由と対処](https://zenn.dev/tonbi_attack/articles/f4642f46311fbe)
-- [Kubernetes を導入したのに恩恵を受けられていない現場の共通パターン](https://zenn.dev/tonbi_attack/articles/8fcca1fa1ba629)
-- [GoのパッケージシステムをJavaと比較しながら理解する](https://zenn.dev/tonbi_attack/articles/54052885015412)
-- [Angular×Dockerで初回ビルドだけ失敗して保存すると通るときの切り分け](https://zenn.dev/tonbi_attack/articles/ddddac91b1e0dd)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
