@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Bashのコマンドライン操作を、便利なショートカットだけ整理する](https://qiita.com/tonbi_attack/items/1177c0f5a9114f7c30a5)
 - [Vueのv-modelは便利だがReactのvalueとonChangeはなぜ分かりやすいのか](https://qiita.com/tonbi_attack/items/8d437e3befb87c9a55b2)
 - [Springの@Transactionalはなぜ便利なのに分かりにくいのか](https://qiita.com/tonbi_attack/items/eacc985f8e11efcf457f)
 - [SlickGridでoddクラスが競合して表示崩れした話](https://qiita.com/tonbi_attack/items/885329263a7633036366)
-- [VueのComposition APIとReact Hooksは何が似ていて何が違うのか](https://qiita.com/tonbi_attack/items/22d1cdeaf3c88cad2316)
 <!-- QIITA-POST-LIST:END -->
 
 
