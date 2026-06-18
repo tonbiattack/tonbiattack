@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [LocalStackでAWSサービスをローカルで動かす](https://zenn.dev/tonbi_attack/articles/474e204bb0a7ae)
+- [SNSトピックを実行経路で分けたら通知先が壊れた話](https://zenn.dev/tonbi_attack/articles/bee0c0ea342d71)
 - [Amazon Linux 2023でcronが薄れたのに、なぜKubernetesではCronJobが普通なのか](https://zenn.dev/tonbi_attack/articles/3fc89141cea347)
 - [k8s CronJob + SNS + Lambdaで作る疎結合な監視バッチ構成](https://zenn.dev/tonbi_attack/articles/d13a1c09768a55)
 - [OOMを調べたらJVMではなく重複データの蓄積が原因だった](https://zenn.dev/tonbi_attack/articles/142f69dce958db)
-- [MySQLのデッドロックを調査して原因を特定するまでの手順](https://zenn.dev/tonbi_attack/articles/4cc4cdd95f43e2)
-- [Hyper-V 上の Rocky Linux で Docker Compose を動かす](https://zenn.dev/tonbi_attack/articles/1863c44888ff5f)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
