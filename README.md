@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [疑わしい取引検知では新しいデータソースを先に蓄積した方がよい](https://qiita.com/tonbi_attack/items/e98b57cdb957977ac611)
+- [リクエスト中の全削除処理がDB接続枯渇を招く理由](https://qiita.com/tonbi_attack/items/532087fe619f045b743f)
 - [ReactとVueの書き方の違い：同じ画面でも読む順番が変わる](https://qiita.com/tonbi_attack/items/deb6b3b3f947ee7f0927)
 - [Vueのv-showとv-ifは何が違うのか](https://qiita.com/tonbi_attack/items/e6e8e01283b8b464c072)
-- [Bashのコマンドライン操作を、便利なショートカットだけ整理する](https://qiita.com/tonbi_attack/items/1177c0f5a9114f7c30a5)
-- [Vueのv-modelは便利だがReactのvalueとonChangeはなぜ分かりやすいのか](https://qiita.com/tonbi_attack/items/8d437e3befb87c9a55b2)
 <!-- QIITA-POST-LIST:END -->
 
 
