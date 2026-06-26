@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [SlickGridでoddクラスが競合して表示崩れした話](https://zenn.dev/tonbi_attack/articles/8abe1ed3e56c73)
 - [VueのComposition APIとReact Hooksは何が似ていて何が違うのか](https://zenn.dev/tonbi_attack/articles/7ea9ffa6fc00d8)
 - [VueのテンプレートとReactのJSXは何が違うのか](https://zenn.dev/tonbi_attack/articles/c34322481c9ae6)
 - [VueのテンプレートとReactのJSXは何が違うのかVue.jsReact](https://zenn.dev/tonbi_attack/articles/491461ca0eeb0a)
 - [Vueの主要ディレクティブをReactで書くとどうなるか](https://zenn.dev/tonbi_attack/articles/db1a6d92151cb2)
-- [GitHub Actionsでreviewdogのダウンロードが504になったときに環境変数を疑った話](https://zenn.dev/tonbi_attack/articles/e747c77a7c344a)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
