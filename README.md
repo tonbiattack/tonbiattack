@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [疑わしい取引検知では新しいデータソースを先に蓄積した方がよい](https://qiita.com/tonbi_attack/items/e98b57cdb957977ac611)
-- [リクエスト中の全削除処理がDB接続枯渇を招く理由](https://qiita.com/tonbi_attack/items/532087fe619f045b743f)
-- [ReactとVueの書き方の違い：同じ画面でも読む順番が変わる](https://qiita.com/tonbi_attack/items/deb6b3b3f947ee7f0927)
-- [Vueのv-showとv-ifは何が違うのか](https://qiita.com/tonbi_attack/items/e6e8e01283b8b464c072)
+- [Vueのcomputedとwatchの使い分け：値を作るならcomputed、処理を走らせるならwatch](https://qiita.com/tonbi_attack/items/792ff05e9e394e6c0036)
+- [VueのemitとReactのコールバックpropsは何が違うのか](https://qiita.com/tonbi_attack/items/280cfc544fc12f7d6477)
+- [TypeScriptの型はGoやJavaの型と何が違うのか](https://qiita.com/tonbi_attack/items/4388c7b5e30ee32da1e3)
+- [普段使いのシェルはbashよりzshの方が快適だった](https://qiita.com/tonbi_attack/items/a8a34f2c5ba90b32c91b)
 <!-- QIITA-POST-LIST:END -->
 
 
