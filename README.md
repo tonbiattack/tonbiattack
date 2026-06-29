@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [Vueのcomputedとwatchの使い分け：値を作るならcomputed、処理を走らせるならwatch](https://qiita.com/tonbi_attack/items/792ff05e9e394e6c0036)
-- [VueのemitとReactのコールバックpropsは何が違うのか](https://qiita.com/tonbi_attack/items/280cfc544fc12f7d6477)
-- [TypeScriptの型はGoやJavaの型と何が違うのか](https://qiita.com/tonbi_attack/items/4388c7b5e30ee32da1e3)
-- [普段使いのシェルはbashよりzshの方が快適だった](https://qiita.com/tonbi_attack/items/a8a34f2c5ba90b32c91b)
+- [Goのdecimalで1 weiをETHに戻したら0になった話](https://qiita.com/tonbi_attack/items/334e8297345feeea5acb)
+- [Vueのprovide／injectとReactのContextは何が違うのか](https://qiita.com/tonbi_attack/items/925797ec764d6cae2b47)
+- [VueはReactより簡単とは限らない：入口は優しいが仕組みは普通に難しい](https://qiita.com/tonbi_attack/items/1ab2647f5b0be07f5ede)
+- [TypeScriptの型はなぜここまで表現力が高いのか](https://qiita.com/tonbi_attack/items/bef171aaaebd4363f418)
 <!-- QIITA-POST-LIST:END -->
 
 
