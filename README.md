@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [ライブラリの挙動で迷ったら、まず読めるソースを見に行く](https://qiita.com/tonbi_attack/items/dd74b3fdecca8f9afb3f)
+- [GoやJavaはライブラリの中まで読めるのに、VueやReactはなぜ型定義に飛びがちなのか](https://qiita.com/tonbi_attack/items/0e68161b89d524cd768c)
 - [Goのdecimalで1 weiをETHに戻したら0になった話](https://qiita.com/tonbi_attack/items/334e8297345feeea5acb)
 - [Vueのprovide／injectとReactのContextは何が違うのか](https://qiita.com/tonbi_attack/items/925797ec764d6cae2b47)
-- [VueはReactより簡単とは限らない：入口は優しいが仕組みは普通に難しい](https://qiita.com/tonbi_attack/items/1ab2647f5b0be07f5ede)
-- [TypeScriptの型はなぜここまで表現力が高いのか](https://qiita.com/tonbi_attack/items/bef171aaaebd4363f418)
 <!-- QIITA-POST-LIST:END -->
 
 
