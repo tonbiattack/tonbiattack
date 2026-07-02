@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Nuxt + NestJS BFF + Spring Boot 構成のメリット・デメリット](https://qiita.com/tonbi_attack/items/a47dc1816db65c811807)
 - [ライブラリの挙動で迷ったら、まず読めるソースを見に行く](https://qiita.com/tonbi_attack/items/dd74b3fdecca8f9afb3f)
 - [GoやJavaはライブラリの中まで読めるのに、VueやReactはなぜ型定義に飛びがちなのか](https://qiita.com/tonbi_attack/items/0e68161b89d524cd768c)
 - [Goのdecimalで1 weiをETHに戻したら0になった話](https://qiita.com/tonbi_attack/items/334e8297345feeea5acb)
-- [Vueのprovide／injectとReactのContextは何が違うのか](https://qiita.com/tonbi_attack/items/925797ec764d6cae2b47)
 <!-- QIITA-POST-LIST:END -->
 
 
