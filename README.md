@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [ReactとVueの書き方の違い：同じ画面でも読む順番が変わる](https://zenn.dev/tonbi_attack/articles/b3d4e66a6d4f71)
 - [Vueのv-showとv-ifは何が違うのか](https://zenn.dev/tonbi_attack/articles/c086da07543ef0)
 - [Bashのコマンドライン操作を、便利なショートカットだけ整理する](https://zenn.dev/tonbi_attack/articles/18adf836dac40b)
 - [Vueのv-modelは便利だがReactのvalueとonChangeはなぜ分かりやすいのか](https://zenn.dev/tonbi_attack/articles/dabaebf466ff02)
 - [Springの@Transactionalはなぜ便利なのに分かりにくいのか](https://zenn.dev/tonbi_attack/articles/c787a5abf3bfb9)
-- [SlickGridでoddクラスが競合して表示崩れした話](https://zenn.dev/tonbi_attack/articles/8abe1ed3e56c73)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
