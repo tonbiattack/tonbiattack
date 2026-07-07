@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [シングルトンは嫌われるのに、なぜ Spring や NestJS では使われているのか](https://qiita.com/tonbi_attack/items/4e49da87d970aac16db3)
+- [NestJSのModuleは何を分けるためのものか](https://qiita.com/tonbi_attack/items/1b9745e748b0fd66d660)
+- [なぜ NestJS はアノテーション（デコレータ）文化なのか](https://qiita.com/tonbi_attack/items/9c92f0582fb9dfc3f853)
 - [Atomic Designのフォルダ構成はどう分けるべきか](https://qiita.com/tonbi_attack/items/19043239428a6d9da724)
-- [componentsに何でも入れないためのフロントエンド構成整理](https://qiita.com/tonbi_attack/items/0e98b27b8abf61663a43)
-- [Nuxt + NestJS BFF + Spring Boot 構成のメリット・デメリット](https://qiita.com/tonbi_attack/items/a47dc1816db65c811807)
-- [ライブラリの挙動で迷ったら、まず読めるソースを見に行く](https://qiita.com/tonbi_attack/items/dd74b3fdecca8f9afb3f)
 <!-- QIITA-POST-LIST:END -->
 
 
