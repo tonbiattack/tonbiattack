@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [BFFでDTOとAPI呼び出しを分ける理由](https://qiita.com/tonbi_attack/items/404aacba6ccd0b66a7f9)
+- [BFFでUI単位にAPIを分けるメリットと欠点](https://qiita.com/tonbi_attack/items/dd283e807bd7f3c7d9e8)
+- [npm install が ETIMEDOUT になるときの切り分け手順](https://qiita.com/tonbi_attack/items/887604b4b4f7d3a66c89)
 - [シングルトンは嫌われるのに、なぜ Spring や NestJS では使われているのか](https://qiita.com/tonbi_attack/items/4e49da87d970aac16db3)
-- [NestJSのModuleは何を分けるためのものか](https://qiita.com/tonbi_attack/items/1b9745e748b0fd66d660)
-- [なぜ NestJS はアノテーション（デコレータ）文化なのか](https://qiita.com/tonbi_attack/items/9c92f0582fb9dfc3f853)
-- [Atomic Designのフォルダ構成はどう分けるべきか](https://qiita.com/tonbi_attack/items/19043239428a6d9da724)
 <!-- QIITA-POST-LIST:END -->
 
 
