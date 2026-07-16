@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [AIに既存実装を参照させながら開発するためのgit worktree活用法](https://qiita.com/tonbi_attack/items/8495e46d19e62241fd67)
+- [暗黙知が多い刷新プロジェクトで開発が遅くなる理由](https://qiita.com/tonbi_attack/items/18ef44834b05d6c74e56)
 - [BFFでDTOとAPI呼び出しを分ける理由](https://qiita.com/tonbi_attack/items/404aacba6ccd0b66a7f9)
 - [BFFでUI単位にAPIを分けるメリットと欠点](https://qiita.com/tonbi_attack/items/dd283e807bd7f3c7d9e8)
-- [npm install が ETIMEDOUT になるときの切り分け手順](https://qiita.com/tonbi_attack/items/887604b4b4f7d3a66c89)
-- [シングルトンは嫌われるのに、なぜ Spring や NestJS では使われているのか](https://qiita.com/tonbi_attack/items/4e49da87d970aac16db3)
 <!-- QIITA-POST-LIST:END -->
 
 
