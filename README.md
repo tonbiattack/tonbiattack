@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [VueのemitとReactのコールバックpropsは何が違うのか](https://zenn.dev/tonbi_attack/articles/65e9ed12b9515c)
 - [TypeScriptの型はGoやJavaの型と何が違うのか](https://zenn.dev/tonbi_attack/articles/27252070886163)
 - [普段使いのシェルはbashよりzshの方が快適だった](https://zenn.dev/tonbi_attack/articles/b75d3903ecf1a1)
 - [Linuxで毎日使う基本コマンドを、便利なオプション込みで整理する](https://zenn.dev/tonbi_attack/articles/b508278954a70e)
 - [疑わしい取引検知はSQLより閾値の匙加減が難しい](https://zenn.dev/tonbi_attack/articles/40df2381d0f6b1)
-- [疑わしい取引検知では新しいデータソースを先に蓄積した方がよい](https://zenn.dev/tonbi_attack/articles/763cd40e35f185)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
