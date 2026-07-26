@@ -54,11 +54,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [VueのemitとReactのコールバックpropsは何が違うのか](https://zenn.dev/tonbi_attack/articles/09db226eb15e66)
 - [TypeScriptの型はなぜここまで表現力が高いのか](https://zenn.dev/tonbi_attack/articles/7c043a2f2ab060)
 - [Vueのcomputedとwatchの使い分け：値を作るならcomputed、処理を走らせるならwatch](https://zenn.dev/tonbi_attack/articles/51c0015fa4dcf9)
 - [VueのemitとReactのコールバックpropsは何が違うのか](https://zenn.dev/tonbi_attack/articles/65e9ed12b9515c)
 - [TypeScriptの型はGoやJavaの型と何が違うのか](https://zenn.dev/tonbi_attack/articles/27252070886163)
-- [普段使いのシェルはbashよりzshの方が快適だった](https://zenn.dev/tonbi_attack/articles/b75d3903ecf1a1)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
