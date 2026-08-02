@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [デバッガーはバグ修正だけでなく、コードを読むための道具](https://qiita.com/tonbi_attack/items/01ada8b450a24645f060)
+- [デバッグは原因を当てる作業ではなく事実を狭める作業](https://qiita.com/tonbi_attack/items/719d755ebc309654e4c8)
+- [VS Code の Copilot コミット自動生成が効かないときの実践切り分け](https://qiita.com/tonbi_attack/items/30b0903fe6101c2400ea)
 - [AIに既存実装を参照させながら開発するためのgit worktree活用法](https://qiita.com/tonbi_attack/items/8495e46d19e62241fd67)
-- [暗黙知が多い刷新プロジェクトで開発が遅くなる理由](https://qiita.com/tonbi_attack/items/18ef44834b05d6c74e56)
-- [BFFでDTOとAPI呼び出しを分ける理由](https://qiita.com/tonbi_attack/items/404aacba6ccd0b66a7f9)
-- [BFFでUI単位にAPIを分けるメリットと欠点](https://qiita.com/tonbi_attack/items/dd283e807bd7f3c7d9e8)
 <!-- QIITA-POST-LIST:END -->
 
 
