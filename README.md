@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [エラーはけたたましく叫ばせろ：握りつぶさないための設計思想](https://qiita.com/tonbi_attack/items/c76e3d8619211028209b)
+- [デバッグと原因切り分けをしやすくするエラー設計](https://qiita.com/tonbi_attack/items/893fb5ecf65f249acbf4)
 - [デバッガーはバグ修正だけでなく、コードを読むための道具](https://qiita.com/tonbi_attack/items/01ada8b450a24645f060)
 - [デバッグは原因を当てる作業ではなく事実を狭める作業](https://qiita.com/tonbi_attack/items/719d755ebc309654e4c8)
-- [VS Code の Copilot コミット自動生成が効かないときの実践切り分け](https://qiita.com/tonbi_attack/items/30b0903fe6101c2400ea)
-- [AIに既存実装を参照させながら開発するためのgit worktree活用法](https://qiita.com/tonbi_attack/items/8495e46d19e62241fd67)
 <!-- QIITA-POST-LIST:END -->
 
 
