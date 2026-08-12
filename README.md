@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
-- [エラーはけたたましく叫ばせろ：握りつぶさないための設計思想](https://qiita.com/tonbi_attack/items/c76e3d8619211028209b)
-- [デバッグと原因切り分けをしやすくするエラー設計](https://qiita.com/tonbi_attack/items/893fb5ecf65f249acbf4)
-- [デバッガーはバグ修正だけでなく、コードを読むための道具](https://qiita.com/tonbi_attack/items/01ada8b450a24645f060)
-- [デバッグは原因を当てる作業ではなく事実を狭める作業](https://qiita.com/tonbi_attack/items/719d755ebc309654e4c8)
+- [HTTP 200なのに処理が失敗する：WireMock・SOAP・JAXBの複合障害をどう切り分けたか](https://qiita.com/tonbi_attack/items/cbacce0163fa97b9116a)
+- [外部連携処理の複合障害をどう切り分けるか（WireMock・JAXB・再起動の調査手順）](https://qiita.com/tonbi_attack/items/2c80e26857e6a86b3c74)
+- [キャッシュの功罪：空データが返り続ける問題](https://qiita.com/tonbi_attack/items/ed7e29ffe5d4d1b30c98)
+- [WireMockのAdmin APIを使って「なぜモックに当たらないのか」を調査する](https://qiita.com/tonbi_attack/items/264e4f0444d41a5f5cc3)
 <!-- QIITA-POST-LIST:END -->
 
 
