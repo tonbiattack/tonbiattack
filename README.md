@@ -68,10 +68,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [JavaのString.length&lpar;&rpar;は「文字数」ではない：絵文字が文字数制限に引っかかる原因をデバッグする](https://qiita.com/tonbi_attack/items/34b3281269982172787c)
+- [Concourse・Harbor・Argo CD・OpenShiftの関係を整理する](https://qiita.com/tonbi_attack/items/9e45218b415111f6b81e)
 - [Jacksonで未定義のJSONキーをどう扱うか：2つの設定方法と使い分け](https://qiita.com/tonbi_attack/items/d0bbd09ff4a07b77c81a)
 - [在庫8件に戻ってしまった：Spring Data JPAの楽観ロックを実際にデバッグする](https://qiita.com/tonbi_attack/items/67581c56c5070fdbee2b)
-- [HTTP 200なのに処理が失敗する：WireMock・SOAP・JAXBの複合障害をどう切り分けたか](https://qiita.com/tonbi_attack/items/cbacce0163fa97b9116a)
-- [外部連携処理の複合障害をどう切り分けるか（WireMock・JAXB・再起動の調査手順）](https://qiita.com/tonbi_attack/items/2c80e26857e6a86b3c74)
 <!-- QIITA-POST-LIST:END -->
 
 
