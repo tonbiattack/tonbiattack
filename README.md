@@ -1,21 +1,25 @@
 # Hi 👋, I'm Daichi Toyooka
 
-フルスタックエンジニア（Go / TypeScript）
+フルスタックエンジニア（Java / Go / TypeScript）
 
 ## About
 
 フロントエンドからバックエンド、データベース・キャッシュまで、プロダクト全体を見据えた設計・実装・テストに取り組んでいます。
 
-GoとTypeScriptを軸に、Nuxt 3 / NestJSによるWebアプリケーション開発や、PostgreSQL・Redisを利用したデータ基盤の実装を経験しています。API設計、状態管理、データ取得、ドメインロジックを横断して、保守しやすい実装を組み立てることを大切にしています。
+Java・Go・TypeScriptを主軸に、Nuxt 3 / NestJSによるWebアプリケーション開発や、PostgreSQL・Redisを利用したデータ基盤の実装を経験しています。API設計、状態管理、データ取得、ドメインロジックを横断して、保守しやすい実装を組み立てることを大切にしています。
+
+特に、再現可能なバグ修正とデバッグが好きです。失敗を観測し、原因を切り分け、最小限の修正と回帰テストにつなげるプロセスを大切にしています。
 
 I'm a full-stack engineer sharing practical insights on design, implementation, and testing.
 
-I work across frontend, backend, database, and caching layers, with Go and TypeScript at the core. My experience includes web application development with Nuxt 3 and NestJS, as well as data-layer implementation with PostgreSQL and Redis. I value maintainable implementations that connect API design, state management, data access, and domain logic.
+I work across frontend, backend, database, and caching layers, with Java, Go, and TypeScript at the core. My experience includes web application development with Nuxt 3 and NestJS, as well as data-layer implementation with PostgreSQL and Redis. I value maintainable implementations that connect API design, state management, data access, and domain logic.
+
+I especially enjoy reproducible bug fixes and debugging. I value the process of observing failures, isolating root causes, applying minimal fixes, and adding regression tests.
 
 ## Tech Stack
 
 メイン
-- Go / TypeScript / Nuxt 3 / NestJS
+- Java / Go / TypeScript
 
 フロントエンド
 - Vue 3 / Nuxt 3 / TanStack Query
