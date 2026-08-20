@@ -1,32 +1,40 @@
 # Hi 👋, I'm Daichi Toyooka
 
-バックエンドエンジニア（Go）
+フルスタックエンジニア（Java / Go / TypeScript）
 
 ## About
 
-設計・実装・テストなど、実務に役立つ知識を発信しています。
+フロントエンドからバックエンド、データベース・キャッシュまで、プロダクト全体を見据えた設計・実装・テストに取り組んでいます。
 
-Goをメインに、Java・Spring・SQLなど幅広い技術を経験しています。
-データ取得やロジックの組み立てを重視した実装を得意としています。
+Java・Go・TypeScriptを主軸に、Nuxt 3 / NestJSによるWebアプリケーション開発や、PostgreSQL・Redisを利用したデータ基盤の実装を経験しています。API設計、状態管理、データ取得、ドメインロジックを横断して、保守しやすい実装を組み立てることを大切にしています。
 
-I'm a backend engineer sharing practical insights on design, implementation, and testing.
+特に、再現可能なバグ修正とデバッグが好きです。失敗を観測し、原因を切り分け、最小限の修正と回帰テストにつなげるプロセスを大切にしています。
 
-Mainly working with Go, with experience in Java, Spring, and SQL.
-I focus on data retrieval and logic composition in my implementations.
+I'm a full-stack engineer sharing practical insights on design, implementation, and testing.
+
+I work across frontend, backend, database, and caching layers, with Java, Go, and TypeScript at the core. My experience includes web application development with Nuxt 3 and NestJS, as well as data-layer implementation with PostgreSQL and Redis. I value maintainable implementations that connect API design, state management, data access, and domain logic.
+
+I especially enjoy reproducible bug fixes and debugging. I value the process of observing failures, isolating root causes, applying minimal fixes, and adding regression tests.
 
 ## Tech Stack
 
 メイン
-- Go / GORM / Cobra
+- Java / Go / TypeScript
 
-その他言語・フレームワーク
+フロントエンド
+- Vue 3 / Nuxt 3 / TanStack Query
+- React / Angular / JavaScript / jQuery
+
+バックエンド
+- Go / GORM / Cobra
+- NestJS
 - Java / Spring / Java EE
 - Python / FastAPI
 - VB.NET
-- JavaScript / TypeScript / Angular / React / jQuery
 
 データベース・インフラ
-- MySQL
+- PostgreSQL / MySQL
+- Redis
 - Docker / WSL2
 
 AWS 資格
