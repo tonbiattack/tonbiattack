@@ -76,10 +76,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [JPAの親子関連を保存するときに確認するカスケードと所有側](https://qiita.com/tonbi_attack/items/4bbea7d4d9dbaf710b03)
+- [height 100パーセントで画面高を埋められないCSSを直す：親の高さと100dvh](https://qiita.com/tonbi_attack/items/bdbb7d19aa7c22dc8eae)
+- [明細を削除したのにDBに残る：Spring Data JPAのorphanRemovalを実際にデバッグする](https://qiita.com/tonbi_attack/items/6fa92eadde572623f475)
 - [JavaのString.length&lpar;&rpar;は「文字数」ではない：絵文字が文字数制限に引っかかる原因をデバッグする](https://qiita.com/tonbi_attack/items/34b3281269982172787c)
-- [Concourse・Harbor・Argo CD・OpenShiftの関係を整理する](https://qiita.com/tonbi_attack/items/9e45218b415111f6b81e)
-- [Jacksonで未定義のJSONキーをどう扱うか：2つの設定方法と使い分け](https://qiita.com/tonbi_attack/items/d0bbd09ff4a07b77c81a)
-- [在庫8件に戻ってしまった：Spring Data JPAの楽観ロックを実際にデバッグする](https://qiita.com/tonbi_attack/items/67581c56c5070fdbee2b)
 <!-- QIITA-POST-LIST:END -->
 
 
