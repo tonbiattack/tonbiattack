@@ -76,10 +76,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [EntityGraphなしでデタッチ後の明細を読めない理由を実際にデバッグする](https://qiita.com/tonbi_attack/items/e26c66021f33420bc424)
 - [enumの既定ORDINAL保存で外部ステータス照会が一致しない理由を実際にデバッグする](https://qiita.com/tonbi_attack/items/471da25a8ca2479372ce)
 - [JPAの親子関連を保存するときに確認するカスケードと所有側](https://qiita.com/tonbi_attack/items/4bbea7d4d9dbaf710b03)
 - [height 100パーセントで画面高を埋められないCSSを直す：親の高さと100dvh](https://qiita.com/tonbi_attack/items/bdbb7d19aa7c22dc8eae)
-- [明細を削除したのにDBに残る：Spring Data JPAのorphanRemovalを実際にデバッグする](https://qiita.com/tonbi_attack/items/6fa92eadde572623f475)
 <!-- QIITA-POST-LIST:END -->
 
 
