@@ -83,8 +83,16 @@ AWS 資格
 <!-- QIITA-POST-LIST:END -->
 
 
-## Projects
+## Featured Repositories
 
-- [git-plus](https://github.com/tonbiattack/git-plus) — Goで作ったGitラッパーCLI
-- [employee-management](https://github.com/tonbiattack/employee-management) — 従業員管理システム
-- [line-notify-web-site-update](https://github.com/tonbiattack/line-notify-web-site-update) — Webサイト更新をLINEで通知するBot
+バグ修正・デバッグ学習を中心に、Java・Go・TypeScriptで実装・検証用のリポジトリを公開しています。以下は代表例です。全リポジトリは [GitHub](https://github.com/tonbiattack?tab=repositories) でご覧いただけます。
+
+| 分野 | リポジトリ | 概要 |
+| --- | --- | --- |
+| Java / Spring | [spring-jpa-orphan-removal-debug-lab](https://github.com/tonbiattack/spring-jpa-orphan-removal-debug-lab) | JPAの`orphanRemoval`未設定による子エンティティ削除漏れを再現・修正するデバッグラボ。 |
+| Go / GORM | [go-gorm-delete-notfound-debug-lab](https://github.com/tonbiattack/go-gorm-delete-notfound-debug-lab) | 削除件数の未確認による削除APIの契約違反を再現し、修正と回帰テストまで検証するラボ。 |
+| Nuxt / TanStack Query | [nuxt-tanstack-query-cache-debug-lab](https://github.com/tonbiattack/nuxt-tanstack-query-cache-debug-lab) | mutation後のキャッシュ無効化を題材にしたフロントエンドのデバッグラボ。 |
+| NestJS | [nestjs-nested-validation-lab](https://github.com/tonbiattack/nestjs-nested-validation-lab) | ネストしたDTOのバリデーションとクラス変換を扱うNestJSデバッグラボ。 |
+| Go / OSS読解 | [go-chi-router-code-reading](https://github.com/tonbiattack/go-chi-router-code-reading) | Go製OSS `chi` の実装を読み解くためのコードリーディングリポジトリ。 |
+| インフラ | [personal-webapp-terraform](https://github.com/tonbiattack/personal-webapp-terraform) | 個人開発向けWebアプリケーション基盤をTerraformで構築するリポジトリ。 |
+| ツール | [git-plus](https://github.com/tonbiattack/git-plus) | Goで作ったGitラッパーCLI。 |
