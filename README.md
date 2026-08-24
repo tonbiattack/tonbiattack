@@ -81,10 +81,3 @@ AWS 資格
 - [「次へ」を覚える Chrome 拡張機能を作って考えた、壊れにくい CSS セレクタの作り方](https://qiita.com/tonbi_attack/items/d3dcb03a7062a0bbd27d)
 - [EntityGraphなしでデタッチ後の明細を読めない理由を実際にデバッグする](https://qiita.com/tonbi_attack/items/e26c66021f33420bc424)
 <!-- QIITA-POST-LIST:END -->
-
-
-## Projects
-
-- [git-plus](https://github.com/tonbiattack/git-plus) — Goで作ったGitラッパーCLI
-- [employee-management](https://github.com/tonbiattack/employee-management) — 従業員管理システム
-- [line-notify-web-site-update](https://github.com/tonbiattack/line-notify-web-site-update) — Webサイト更新をLINEで通知するBot
