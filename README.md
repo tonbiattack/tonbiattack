@@ -76,10 +76,10 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [ログに「保存した」と出ているのにDBでは0件だった：Spring Bootのトランザクション境界を実際にデバッグする](https://qiita.com/tonbi_attack/items/5a79f3134bd283559e59)
+- [検査例外なのにDB更新がコミットされた：Spring BootのrollbackForを実際にデバッグする](https://qiita.com/tonbi_attack/items/8e310b1de87f2a76c152)
+- [「次へ」を覚える Chrome 拡張機能を作って考えた、壊れにくい CSS セレクタの作り方](https://qiita.com/tonbi_attack/items/d3dcb03a7062a0bbd27d)
 - [EntityGraphなしでデタッチ後の明細を読めない理由を実際にデバッグする](https://qiita.com/tonbi_attack/items/e26c66021f33420bc424)
-- [enumの既定ORDINAL保存で外部ステータス照会が一致しない理由を実際にデバッグする](https://qiita.com/tonbi_attack/items/471da25a8ca2479372ce)
-- [JPAの親子関連を保存するときに確認するカスケードと所有側](https://qiita.com/tonbi_attack/items/4bbea7d4d9dbaf710b03)
-- [height 100パーセントで画面高を埋められないCSSを直す：親の高さと100dvh](https://qiita.com/tonbi_attack/items/bdbb7d19aa7c22dc8eae)
 <!-- QIITA-POST-LIST:END -->
 
 
