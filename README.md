@@ -62,11 +62,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [AIにUI修正を任せるとき、手動動作確認だけでなくE2Eテストまで書かせる](https://zenn.dev/tonbi_attack/articles/ai-ui-fix-e2e-test-strategy)
 - [GitOpsでイメージタグを手動切り戻ししたらrebase競合が続いた話](https://zenn.dev/tonbi_attack/articles/gitops-manual-image-tag-rollback-rebase-conflict)
 - [Jacksonで未定義のJSONキーをどう扱うか：2つの設定方法と使い分け](https://zenn.dev/tonbi_attack/articles/36d4f8764d94fd)
 - [デバッグと原因切り分けをしやすくするエラー設計](https://zenn.dev/tonbi_attack/articles/07348232a4257e)
 - [VueのemitとReactのコールバックpropsは何が違うのか](https://zenn.dev/tonbi_attack/articles/09db226eb15e66)
-- [TypeScriptの型はなぜここまで表現力が高いのか](https://zenn.dev/tonbi_attack/articles/7c043a2f2ab060)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
