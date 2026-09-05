@@ -76,8 +76,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [バグ調査を速くするための「原因切り分け」の考え方](https://qiita.com/tonbi_attack/items/e78ce47536f0511ec025)
+- [OpenAPIのbundleファイルを各featureブランチで生成したらコンフリクトだらけになった話](https://qiita.com/tonbi_attack/items/34d9593bf03957762436)
 - [AIにUI修正を任せるとき、手動動作確認だけでなくE2Eテストまで書かせる](https://qiita.com/tonbi_attack/items/ec0838d39dc119971068)
 - [GitOpsでイメージタグを手動切り戻ししたらrebase競合が続いた話](https://qiita.com/tonbi_attack/items/055a5baf883e5b9f2580)
-- [認証Cookieを見たら最初に確認したいHttpOnly・Secure・SameSite](https://qiita.com/tonbi_attack/items/912c1c4c317d28b4717b)
-- [ログに「保存した」と出ているのにDBでは0件だった：Spring Bootのトランザクション境界を実際にデバッグする](https://qiita.com/tonbi_attack/items/5a79f3134bd283559e59)
 <!-- QIITA-POST-LIST:END -->
