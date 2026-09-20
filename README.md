@@ -76,8 +76,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [AIにコードを書かせるようになったら、JIS配列でもUS配列でもどうでもよくなってきた](https://qiita.com/tonbi_attack/items/829091ed3f1fb236378a)
+- [JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲](https://qiita.com/tonbi_attack/items/10586f69454e8afe8b0e)
 - [バグ調査を速くするための「原因切り分け」の考え方](https://qiita.com/tonbi_attack/items/e78ce47536f0511ec025)
 - [OpenAPIのbundleファイルを各featureブランチで生成したらコンフリクトだらけになった話](https://qiita.com/tonbi_attack/items/34d9593bf03957762436)
-- [AIにUI修正を任せるとき、手動動作確認だけでなくE2Eテストまで書かせる](https://qiita.com/tonbi_attack/items/ec0838d39dc119971068)
-- [GitOpsでイメージタグを手動切り戻ししたらrebase競合が続いた話](https://qiita.com/tonbi_attack/items/055a5baf883e5b9f2580)
 <!-- QIITA-POST-LIST:END -->
