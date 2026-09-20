@@ -62,11 +62,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲](https://zenn.dev/tonbi_attack/articles/jev-sql-danger-checker)
 - [バグ調査を速くするための「原因切り分け」の考え方](https://zenn.dev/tonbi_attack/articles/debugging-triage)
 - [OpenAPIのbundleファイルを各featureブランチで生成したらコンフリクトだらけになった話](https://zenn.dev/tonbi_attack/articles/openapi-bundle-feature-branch-conflict)
 - [AIにUI修正を任せるとき、手動動作確認だけでなくE2Eテストまで書かせる](https://zenn.dev/tonbi_attack/articles/ai-ui-fix-e2e-test-strategy)
 - [GitOpsでイメージタグを手動切り戻ししたらrebase競合が続いた話](https://zenn.dev/tonbi_attack/articles/gitops-manual-image-tag-rollback-rebase-conflict)
-- [Jacksonで未定義のJSONキーをどう扱うか：2つの設定方法と使い分け](https://zenn.dev/tonbi_attack/articles/36d4f8764d94fd)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
