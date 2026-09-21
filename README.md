@@ -76,8 +76,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Cookieに検索状態を保存したら別タブの状態が混ざった：PiniaとsessionStorageの責務を整理する](https://qiita.com/tonbi_attack/items/fc3f2de25a6ec58c6542)
+- [LocalSendはどうやって近くの端末を見つけてファイルを送っているのか](https://qiita.com/tonbi_attack/items/af5af49be84f65098be0)
 - [AIにコードを書かせるようになったら、JIS配列でもUS配列でもどうでもよくなってきた](https://qiita.com/tonbi_attack/items/829091ed3f1fb236378a)
 - [JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲](https://qiita.com/tonbi_attack/items/10586f69454e8afe8b0e)
-- [バグ調査を速くするための「原因切り分け」の考え方](https://qiita.com/tonbi_attack/items/e78ce47536f0511ec025)
-- [OpenAPIのbundleファイルを各featureブランチで生成したらコンフリクトだらけになった話](https://qiita.com/tonbi_attack/items/34d9593bf03957762436)
 <!-- QIITA-POST-LIST:END -->
