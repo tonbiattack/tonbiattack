@@ -76,8 +76,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [SOAP XMLの名前空間はなぜ分かりにくいのか：prefix・default namespace・QNameを最小例で理解する](https://qiita.com/tonbi_attack/items/34b3ecaf18fd1068cab3)
+- [DAO・DTO・Entity・Repository・Modelの違いを整理する：誤用しやすい設計用語の意味](https://qiita.com/tonbi_attack/items/d4c97277d77e87751a8c)
 - [Cookieに検索状態を保存したら別タブの状態が混ざった：PiniaとsessionStorageの責務を整理する](https://qiita.com/tonbi_attack/items/fc3f2de25a6ec58c6542)
 - [LocalSendはどうやって近くの端末を見つけてファイルを送っているのか](https://qiita.com/tonbi_attack/items/af5af49be84f65098be0)
-- [AIにコードを書かせるようになったら、JIS配列でもUS配列でもどうでもよくなってきた](https://qiita.com/tonbi_attack/items/829091ed3f1fb236378a)
-- [JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲](https://qiita.com/tonbi_attack/items/10586f69454e8afe8b0e)
 <!-- QIITA-POST-LIST:END -->
