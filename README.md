@@ -18,8 +18,12 @@ I especially enjoy reproducible bug fixes and debugging. I value the process of 
 
 ## 公開中のWebサイト
 
-- [Local Memo Diff](https://tonbiattack.github.io/local-memo-diff/)
-- [Java by Tests](https://tonbiattack.github.io/java-by-tests/)
+- [Local Memo Diff](https://tonbiattack.github.io/local-memo-diff/) — localStorageだけで動くメモと差分比較のワークスペース
+- [Java by Tests](https://tonbiattack.github.io/java-by-tests/) — Java 21の挙動を、実行済みのJUnit 5テストと対になるソースコードで確認する学習サイト
+
+## 公開中のChrome拡張
+
+- [Arrow Button Mapper](https://chromewebstore.google.com/detail/ejnlggdofblmjagoeijifpjggmgjcibj?utm_source=item-share-cb) — URLごとに登録したCSSセレクタの要素を左右矢印キーでクリックするChrome拡張
 
 ## Tech Stack
 
