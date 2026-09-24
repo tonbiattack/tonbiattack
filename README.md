@@ -16,6 +16,11 @@ I work across frontend, backend, database, and caching layers, with Java, Go, an
 
 I especially enjoy reproducible bug fixes and debugging. I value the process of observing failures, isolating root causes, applying minimal fixes, and adding regression tests.
 
+## 公開中のWebサイト
+
+- [Local Memo Diff](https://tonbiattack.github.io/local-memo-diff/)
+- [Java by Tests](https://tonbiattack.github.io/java-by-tests/)
+
 ## Tech Stack
 
 メイン
