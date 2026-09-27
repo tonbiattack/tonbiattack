@@ -85,8 +85,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Defects4JでMockitoの実在バグをデバッグする：負の待機時間が検証を壊す理由](https://qiita.com/tonbi_attack/items/762ea180887f4c3ec54d)
 - [SOAP XMLの名前空間はなぜ分かりにくいのか：prefix・default namespace・QNameを最小例で理解する](https://qiita.com/tonbi_attack/items/34b3ecaf18fd1068cab3)
 - [DAO・DTO・Entity・Repository・Modelの違いを整理する：誤用しやすい設計用語の意味](https://qiita.com/tonbi_attack/items/d4c97277d77e87751a8c)
 - [Cookieに検索状態を保存したら別タブの状態が混ざった：PiniaとsessionStorageの責務を整理する](https://qiita.com/tonbi_attack/items/fc3f2de25a6ec58c6542)
-- [LocalSendはどうやって近くの端末を見つけてファイルを送っているのか](https://qiita.com/tonbi_attack/items/af5af49be84f65098be0)
 <!-- QIITA-POST-LIST:END -->
