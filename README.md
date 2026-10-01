@@ -71,11 +71,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [LocalSendはどうやって近くの端末を見つけてファイルを送っているのか](https://zenn.dev/tonbi_attack/articles/how-localsend-works)
 - [Defects4JでMockitoの実在バグをデバッグする：負の待機時間が検証を壊す理由](https://zenn.dev/tonbi_attack/articles/defects4j-mockito-negative-wait-duration)
 - [DAO・DTO・Entity・Repository・Modelの違いを整理する：誤用しやすい設計用語の意味](https://zenn.dev/tonbi_attack/articles/dao-dto-entity-repository-model)
 - [Cookieに検索状態を保存したら別タブの状態が混ざった：PiniaとsessionStorageの責務を整理する](https://zenn.dev/tonbi_attack/articles/cookie-tab-state-pinia-sessionstorage)
 - [AIにコードを書かせるようになったら、JIS配列でもUS配列でもどうでもよくなってきた](https://zenn.dev/tonbi_attack/articles/ai-coding-jis-us-keyboard-layout)
-- [JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲](https://zenn.dev/tonbi_attack/articles/jev-sql-danger-checker)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
