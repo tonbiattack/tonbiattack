@@ -85,8 +85,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [VimiumはどうやってWebページをVim化しているのか？ ソースコードから仕組みを調べた](https://qiita.com/tonbi_attack/items/fbb0e9a2d43ce45be62f)
+- [業務UIで改行や全角半角にこだわりすぎると共通化のメリットが薄れる](https://qiita.com/tonbi_attack/items/b57c8fa5d3ddc95fc25a)
 - [AI時代にコードレビューは必要か：読むよりテスト観点をレビューする](https://qiita.com/tonbi_attack/items/6b6c78029edd0ea3dff7)
 - [Defects4JでMockitoの実在バグをデバッグする：負の待機時間が検証を壊す理由](https://qiita.com/tonbi_attack/items/762ea180887f4c3ec54d)
-- [SOAP XMLの名前空間はなぜ分かりにくいのか：prefix・default namespace・QNameを最小例で理解する](https://qiita.com/tonbi_attack/items/34b3ecaf18fd1068cab3)
-- [DAO・DTO・Entity・Repository・Modelの違いを整理する：誤用しやすい設計用語の意味](https://qiita.com/tonbi_attack/items/d4c97277d77e87751a8c)
 <!-- QIITA-POST-LIST:END -->
