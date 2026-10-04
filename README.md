@@ -85,8 +85,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [SIer・自社開発・SESを全部経験して分かった、会社形態より重要だった5つの判断軸](https://qiita.com/tonbi_attack/items/1bbf1a8c98efa7e3d3d8)
+- [飲み会の身内ノリから考える、業務ドメインのキャッチアップ](https://qiita.com/tonbi_attack/items/fa7e2f94eb6360a3f202)
+- [Fluent SearchのScreen SearchはどうやってVimiumのfのように画面を操作するのか](https://qiita.com/tonbi_attack/items/4f94401d3b5135373c66)
 - [VimiumはどうやってWebページをVim化しているのか？ ソースコードから仕組みを調べた](https://qiita.com/tonbi_attack/items/fbb0e9a2d43ce45be62f)
-- [業務UIで改行や全角半角にこだわりすぎると共通化のメリットが薄れる](https://qiita.com/tonbi_attack/items/b57c8fa5d3ddc95fc25a)
-- [AI時代にコードレビューは必要か：読むよりテスト観点をレビューする](https://qiita.com/tonbi_attack/items/6b6c78029edd0ea3dff7)
-- [Defects4JでMockitoの実在バグをデバッグする：負の待機時間が検証を壊す理由](https://qiita.com/tonbi_attack/items/762ea180887f4c3ec54d)
 <!-- QIITA-POST-LIST:END -->
