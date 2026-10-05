@@ -85,8 +85,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [固定UIってもう全部必要なのか？AIがその場でUIを作る時代を考える](https://qiita.com/tonbi_attack/items/ccec11efaae631df46bd)
+- [AIに画面操作させる前に考える、API・MCP Tool・Skill・E2Eの境界](https://qiita.com/tonbi_attack/items/08718b64aa716b5c73cf)
 - [SIer・自社開発・SESを全部経験して分かった、会社形態より重要だった5つの判断軸](https://qiita.com/tonbi_attack/items/1bbf1a8c98efa7e3d3d8)
 - [飲み会の身内ノリから考える、業務ドメインのキャッチアップ](https://qiita.com/tonbi_attack/items/fa7e2f94eb6360a3f202)
-- [Fluent SearchのScreen SearchはどうやってVimiumのfのように画面を操作するのか](https://qiita.com/tonbi_attack/items/4f94401d3b5135373c66)
-- [VimiumはどうやってWebページをVim化しているのか？ ソースコードから仕組みを調べた](https://qiita.com/tonbi_attack/items/fbb0e9a2d43ce45be62f)
 <!-- QIITA-POST-LIST:END -->
