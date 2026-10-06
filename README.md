@@ -71,11 +71,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [固定UIってもう全部必要なのか？AIがその場でUIを作る時代を考える](https://zenn.dev/tonbi_attack/articles/fixed-ui-generative-ui)
+- [AIに画面操作させる前に考える、API・MCP Tool・Skill・E2Eの境界](https://zenn.dev/tonbi_attack/articles/ai-operation-boundary)
 - [飲み会の身内ノリから考える、業務ドメインのキャッチアップ](https://zenn.dev/tonbi_attack/articles/drinking-party-domain-context)
 - [業務UIで改行や全角半角にこだわりすぎると共通化のメリットが薄れる](https://zenn.dev/tonbi_attack/articles/business-ui-component-exceptions)
 - [AI時代にコードレビューは必要か：読むよりテスト観点をレビューする](https://zenn.dev/tonbi_attack/articles/async-first-code-review-in-ai-era)
-- [LocalSendはどうやって近くの端末を見つけてファイルを送っているのか](https://zenn.dev/tonbi_attack/articles/how-localsend-works)
-- [Defects4JでMockitoの実在バグをデバッグする：負の待機時間が検証を壊す理由](https://zenn.dev/tonbi_attack/articles/defects4j-mockito-negative-wait-duration)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
