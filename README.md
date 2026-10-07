@@ -85,8 +85,8 @@ AWS 資格
 [![Qiita Articles](https://badgen.org/img/qiita/tonbi_attack/articles?style=plastic)](https://qiita.com/tonbi_attack)
 
 <!-- QIITA-POST-LIST:START -->
+- [Spring MyBatisでsnake_case列がcamelCaseへ入らない理由をデバッグする](https://qiita.com/tonbi_attack/items/ec984b0b175050342423)
 - [QuixBugsのJavaでhareがnullになる連結リストの循環検出バグをデバッグする](https://qiita.com/tonbi_attack/items/bdcfd270ef7f378da529)
 - [QuixBugsのJavaでフラット化がStackOverflowErrorになるバグをデバッグする：スカラーのbase caseを直す](https://qiita.com/tonbi_attack/items/8c329953c3a1264eab53)
 - [固定UIってもう全部必要なのか？AIがその場でUIを作る時代を考える](https://qiita.com/tonbi_attack/items/ccec11efaae631df46bd)
-- [AIに画面操作させる前に考える、API・MCP Tool・Skill・E2Eの境界](https://qiita.com/tonbi_attack/items/08718b64aa716b5c73cf)
 <!-- QIITA-POST-LIST:END -->
