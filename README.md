@@ -71,11 +71,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [まずAIに任せる 人間を例外処理にするAI-defaultな開発スタイル](https://zenn.dev/tonbi_attack/articles/ai-default-development)
 - [Fluent SearchのScreen SearchはどうやってVimiumのfのように画面を操作するのか](https://zenn.dev/tonbi_attack/articles/how-fluent-search-works)
 - [固定UIってもう全部必要なのか？AIがその場でUIを作る時代を考える](https://zenn.dev/tonbi_attack/articles/fixed-ui-generative-ui)
 - [AIに画面操作させる前に考える、API・MCP Tool・Skill・E2Eの境界](https://zenn.dev/tonbi_attack/articles/ai-operation-boundary)
 - [飲み会の身内ノリから考える、業務ドメインのキャッチアップ](https://zenn.dev/tonbi_attack/articles/drinking-party-domain-context)
-- [業務UIで改行や全角半角にこだわりすぎると共通化のメリットが薄れる](https://zenn.dev/tonbi_attack/articles/business-ui-component-exceptions)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
