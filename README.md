@@ -71,11 +71,11 @@ AWS 資格
 [![Zenn Articles](https://badgen.org/img/zenn/tonbi_attack/articles?style=plastic)](https://zenn.dev/tonbi_attack)
 
 <!-- ZENN-POST-LIST:START -->
+- [QuixBugsのJavaでフラット化がStackOverflowErrorになるバグをデバッグする：スカラーのbase caseを直す](https://zenn.dev/tonbi_attack/articles/quixbugs-java-flatten-stackoverflowerror)
 - [QuixBugsのJavaでhareがnullになる連結リストの循環検出バグをデバッグする](https://zenn.dev/tonbi_attack/articles/quixbugs-java-detect-cycle-hare-null)
 - [VimiumはどうやってWebページをVim化しているのか？ ソースコードから仕組みを調べた](https://zenn.dev/tonbi_attack/articles/how-vimium-works)
 - [AIへの「良い指示」は変わり続ける：実装詳細より文脈と制約を渡す](https://zenn.dev/tonbi_attack/articles/ai-instructions-context)
 - [まずAIに任せる 人間を例外処理にするAI-defaultな開発スタイル](https://zenn.dev/tonbi_attack/articles/ai-default-development)
-- [Fluent SearchのScreen SearchはどうやってVimiumのfのように画面を操作するのか](https://zenn.dev/tonbi_attack/articles/how-fluent-search-works)
 <!-- ZENN-POST-LIST:END -->
 
 ### 🕐 最新記事（Qiita）
