@@ -10,20 +10,38 @@ Java・Go・TypeScriptを主軸に、Nuxt 3 / NestJSによるWebアプリケー�
 
 特に、再現可能なバグ修正とデバッグが好きです。失敗を観測し、原因を切り分け、最小限の修正と回帰テストにつなげるプロセスを大切にしています。
 
+最近はバイブコーディングにはまっていて、AIエージェントと対話しながら設計から実装・テストまで一気に進める開発スタイルを日々試しています。
+
 I'm a full-stack engineer sharing practical insights on design, implementation, and testing.
 
 I work across frontend, backend, database, and caching layers, with Java, Go, and TypeScript at the core. My experience includes web application development with Nuxt 3 and NestJS, as well as data-layer implementation with PostgreSQL and Redis. I value maintainable implementations that connect API design, state management, data access, and domain logic.
 
 I especially enjoy reproducible bug fixes and debugging. I value the process of observing failures, isolating root causes, applying minimal fixes, and adding regression tests.
 
+These days I'm hooked on vibe coding — building and iterating on ideas in conversation with AI agents, from design through implementation and testing.
+
 ## 公開中のWebサイト
 
+- [Type Rush](https://tonbiattack.github.io/type-rush/) — ひらがなの短文を5問入力し、クリアまでの時間を計測するタイピングゲーム
+- [UI Rush](https://tonbiattack.github.io/ui-rush/) — 操作できるデモを見て、UIコンポーネントの名称を4択で答えるクイズ
 - [Local Memo Diff](https://tonbiattack.github.io/local-memo-diff/) — localStorageだけで動くメモと差分比較のワークスペース
 - [Java by Tests](https://tonbiattack.github.io/java-by-tests/) — Java 21の挙動を、実行済みのJUnit 5テストと対になるソースコードで確認する学習サイト
+
+テストを実行しながら言語仕様の落とし穴を確かめられる「by Tests」シリーズも公開しています。
+
+- [Go by Tests](https://tonbiattack.github.io/go-by-tests/) — Go 1.22と標準testingパッケージの34テーマ
+- [Python by Tests](https://tonbiattack.github.io/python-by-tests/) — Python 3.13とpytest
+- [TypeScript by Tests](https://tonbiattack.github.io/typescript-by-tests/) — TypeScript 5とNode.js 22の41テスト
 
 ## 公開中のChrome拡張
 
 - [Arrow Button Mapper](https://chromewebstore.google.com/detail/ejnlggdofblmjagoeijifpjggmgjcibj?utm_source=item-share-cb) — URLごとに登録したCSSセレクタの要素を左右矢印キーでクリックするChrome拡張
+- [Regex Tab Keeper](https://github.com/tonbiattack/regex-tab-keeper) — 登録したURL正規表現に一致するタブだけを残し、それ以外を一括で閉じるChrome拡張
+- [Web State Inspector](https://github.com/tonbiattack/web-state-inspector) — 操作・状態変更・通信・例外をTimelineにまとめ、AIに渡せる形で周辺イベントだけをコピーするDevTools拡張
+
+## 公開中のアプリ
+
+- [Instant Mic](https://github.com/tonbiattack/instant-mic/releases) — Androidスマホを同じLANのWindows PCの音声入力キーボードにするアプリ（音声とテキストは外部に送信しません）
 
 ## Tech Stack
 
