@@ -25,22 +25,23 @@ These days I'm hooked on vibe coding — building and iterating on ideas in conv
 - [Type Rush](https://tonbiattack.github.io/type-rush/) — ひらがなの短文を5問入力し、クリアまでの時間を計測するタイピングゲーム
 - [UI Rush](https://tonbiattack.github.io/ui-rush/) — 操作できるデモを見て、UIコンポーネントの名称を4択で答えるクイズ
 - [Local Memo Diff](https://tonbiattack.github.io/local-memo-diff/) — localStorageだけで動くメモと差分比較のワークスペース
-- [Java by Tests](https://tonbiattack.github.io/java-by-tests/) — Java 21の挙動を、実行済みのJUnit 5テストと対になるソースコードで確認する学習サイト
 
-テストを実行しながら言語仕様の落とし穴を確かめられる「by Tests」シリーズも公開しています。
+## by Tests シリーズ
+
+テストを実行しながら、言語仕様や標準ライブラリの落とし穴を確かめられる実行可能ドキュメントです。
 
 - [Go by Tests](https://tonbiattack.github.io/go-by-tests/) — Go 1.22と標準testingパッケージの34テーマ
 - [Python by Tests](https://tonbiattack.github.io/python-by-tests/) — Python 3.13とpytest
+- [Java by Tests](https://tonbiattack.github.io/java-by-tests/) — Java 21とJUnit 5の41テスト
 - [TypeScript by Tests](https://tonbiattack.github.io/typescript-by-tests/) — TypeScript 5とNode.js 22の41テスト
 
 ## 公開中のChrome拡張
 
 - [Arrow Button Mapper](https://chromewebstore.google.com/detail/ejnlggdofblmjagoeijifpjggmgjcibj?utm_source=item-share-cb) — URLごとに登録したCSSセレクタの要素を左右矢印キーでクリックするChrome拡張
-- [Regex Tab Keeper](https://github.com/tonbiattack/regex-tab-keeper) — 登録したURL正規表現に一致するタブだけを残し、それ以外を一括で閉じるChrome拡張
-- [Web State Inspector](https://github.com/tonbiattack/web-state-inspector) — 操作・状態変更・通信・例外をTimelineにまとめ、AIに渡せる形で周辺イベントだけをコピーするDevTools拡張
 
 ## 公開中のアプリ
 
+- [Pictobi（ピクトビ）](https://github.com/tonbiattack/fastest-picture-viewer) — 大量の画像をフォルダ単位で素早く閲覧するAndroid画像ビューア。35万枚規模でも起動・復帰・戻る操作で待たせない設計
 - [Instant Mic](https://github.com/tonbiattack/instant-mic/releases) — Androidスマホを同じLANのWindows PCの音声入力キーボードにするアプリ（音声とテキストは外部に送信しません）
 
 ## Tech Stack
