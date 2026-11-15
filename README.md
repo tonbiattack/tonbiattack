@@ -20,11 +20,18 @@ I especially enjoy reproducible bug fixes and debugging. I value the process of 
 
 These days I'm hooked on vibe coding — building and iterating on ideas in conversation with AI agents, from design through implementation and testing.
 
-## 公開中のWebサイト
+## 公開サービス・アプリ
 
+- [AI Plan Radar](https://tonbiattack.github.io/ai-plan-radar/) — AIコーディングサービスの料金・対応モデル・利用枠を比較
+- [Free Model Radar](https://tonbiattack.github.io/free-model-radar/) — 無料枠のあるLLM APIの条件や対応機能を比較
 - [Type Rush](https://tonbiattack.github.io/type-rush/) — ひらがなの短文を5問入力し、クリアまでの時間を計測するタイピングゲーム
 - [UI Rush](https://tonbiattack.github.io/ui-rush/) — 操作できるデモを見て、UIコンポーネントの名称を4択で答えるクイズ
 - [Local Memo Diff](https://tonbiattack.github.io/local-memo-diff/) — localStorageだけで動くメモと差分比較のワークスペース
+- [Instant Mic](https://github.com/tonbiattack/instant-mic/releases) — Androidスマホを同じLANのWindows PCの音声入力キーボードにするアプリ
+- [Pictobi（ピクトビ）](https://github.com/tonbiattack/fastest-picture-viewer/releases) — フォルダ単位で画像を閲覧できるAndroid画像ビューア
+- [Arrow Button Mapper](https://chromewebstore.google.com/detail/ejnlggdofblmjagoeijifpjggmgjcibj) — 登録したリンクやボタンを左右矢印キーで操作するChrome拡張
+
+**[公開物の一覧を見る](https://tonbiattack.github.io/)** — アプリの画面やAPK、その他の拡張機能も掲載しています。
 
 ## by Tests シリーズ
 
@@ -34,15 +41,6 @@ These days I'm hooked on vibe coding — building and iterating on ideas in conv
 - [Python by Tests](https://tonbiattack.github.io/python-by-tests/) — Python 3.13とpytest
 - [Java by Tests](https://tonbiattack.github.io/java-by-tests/) — Java 21とJUnit 5の41テスト
 - [TypeScript by Tests](https://tonbiattack.github.io/typescript-by-tests/) — TypeScript 5とNode.js 22の41テスト
-
-## 公開中のChrome拡張
-
-- [Arrow Button Mapper](https://chromewebstore.google.com/detail/ejnlggdofblmjagoeijifpjggmgjcibj?utm_source=item-share-cb) — URLごとに登録したCSSセレクタの要素を左右矢印キーでクリックするChrome拡張
-
-## 公開中のアプリ
-
-- [Pictobi（ピクトビ）](https://github.com/tonbiattack/fastest-picture-viewer) — 大量の画像をフォルダ単位で素早く閲覧するAndroid画像ビューア。35万枚規模でも起動・復帰・戻る操作で待たせない設計
-- [Instant Mic](https://github.com/tonbiattack/instant-mic/releases) — Androidスマホを同じLANのWindows PCの音声入力キーボードにするアプリ（音声とテキストは外部に送信しません）
 
 ## Tech Stack
 
